@@ -1,0 +1,12 @@
+# Data are not part of this repository (see README)
+bdc/v2/
+bdc/industry_llm/
+bdc/managers/
+raw-sec/
+outputs/*
+!outputs/.gitkeep
+# Hold-out receipt
+OSF-POSTED.txt
+__pycache__/
+*.pyc
+.DS_Store

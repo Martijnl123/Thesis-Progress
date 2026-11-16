@@ -1,0 +1,1133 @@
+registrant_cik,series_id,registrant_name,series_name,loan_lines,l2_lines,last_seen,in_jun26
+0000002646,S000008760,Voya Intermediate Bond Portfolio,VOYA INTERMEDIATE BOND PORTFOLIO,35,35,2026q2,True
+0000002768,S000006840,Franklin High Income Trust,Franklin High Income Fund,16,16,2026q2,True
+0000003794,S000051302,"AB BOND FUND, INC.",AB Income Fund,18,12,2026q2,False
+0000005094,,Invesco Bond Fund,Invesco Bond Fund,26,25,2026q2,False
+0000012601,S000007677,"Principal Variable Contract Funds, Inc",Core Plus Bond Account,140,140,2026q2,True
+0000013075,S000009231,Bond Fund of America,Bond Fund of America,43,31,2026q2,True
+0000022370,S000000629,John Hancock Investment Trust,Balanced Fund,21,21,2026q2,False
+0000027825,S000028004,Delaware Group Income Funds,Nomura Floating Rate Fund,791,791,2026q2,False
+0000035315,S000017681,Fidelity Salem Street Trust,Fidelity Strategic Dividend and Income Fund,4,4,2026q2,False
+0000035315,S000062237,Fidelity Salem Street Trust,Fidelity SAI Total Bond Fund,1969,1871,2026q2,False
+0000035315,S000075889,Fidelity Salem Street Trust,Fidelity SAI Sustainable Core Plus Bond Fund,239,225,2026q2,False
+0000035315,S000075892,Fidelity Salem Street Trust,Fidelity Sustainable Core Plus Bond Fund,232,218,2026q2,False
+0000038721,S000006756,Franklin Custodian Funds,Franklin Income Fund,59,59,2026q2,True
+0000045288,S000000646,John Hancock Sovereign Bond Fund,Bond Fund,22,22,2026q2,False
+0000050013,S000008814,Income Fund of America,Income Fund of America,190,154,2026q2,False
+0000052136,S000030600,Natixis Funds Trust II,Loomis Sayles Strategic Alpha Fund,107,107,2026q2,True
+0000052136,S000034097,Natixis Funds Trust II,Loomis Sayles Senior Floating Rate and Fixed Income Fund,781,775,2026q2,False
+0000053808,S000000317,BNY Mellon Investment Funds III,BNY Mellon High Yield Fund,99,99,2026q2,True
+0000060365,S000006820,LORD ABBETT BOND DEBENTURE FUND INC,LORD ABBETT BOND DEBENTURE FUND INC,115,109,2026q2,True
+0000067160,S000029642,MML SERIES INVESTMENT FUND,MML VIP Fidelity Institutional AM Core Plus Bond Fund,318,317,2026q2,True
+0000074663,S000004984,Eaton Vance Series Trust II,Eaton Vance Income Fund of Boston,136,130,2026q2,False
+0000076721,S000015758,IMPAX FUNDS SERIES TRUST I,Impax High Yield Bond Fund,31,31,2026q2,True
+0000080249,S000002136,"T. ROWE PRICE NEW INCOME FUND, INC.","T. Rowe Price New Income Fund, Inc.",203,200,2026q2,False
+0000081264,S000006155,Putnam Income Fund,Putnam Income Fund,154,154,2026q2,False
+0000088063,S000017996,DEUTSCHE DWS PORTFOLIO TRUST,DWS Floating Rate Fund,737,737,2026q1,False
+0000088525,S000043985,Guggenheim Funds Trust,Guggenheim Limited Duration Fund,263,229,2026q2,True
+0000088525,S000043986,Guggenheim Funds Trust,Guggenheim Floating Rate Strategies Fund,1036,969,2026q2,True
+0000088525,S000043987,Guggenheim Funds Trust,Guggenheim High Yield Fund,207,167,2026q2,True
+0000088525,S000043988,Guggenheim Funds Trust,Guggenheim Core Bond Fund,73,54,2026q2,True
+0000088525,S000043989,Guggenheim Funds Trust,Guggenheim Macro Opportunities Fund,1250,1013,2026q2,True
+0000088525,S000043991,Guggenheim Funds Trust,Guggenheim Total Return Bond Fund,616,515,2026q2,True
+0000088525,S000063493,Guggenheim Funds Trust,Guggenheim Ultra Short Duration Fund,39,39,2026q2,True
+0000088525,S000085233,Guggenheim Funds Trust,Guggenheim Active INvestment Series (GAINS)-Core Plus Fund,251,231,2026q2,True
+0000088525,S000085234,Guggenheim Funds Trust,Guggenheim Active INvestment Series (GAINS)-Limited Duration Fund,117,104,2026q2,True
+0000091847,,SOURCE CAPITAL /DE/,Source Capital,61,14,2026q2,True
+0000095603,S000006138,DEUTSCHE DWS MARKET TRUST,DWS Global Income Builder Fund,6,6,2026q2,False
+0000106444,S000002584,VANGUARD FIXED INCOME SECURITIES FUNDS,VANGUARD HIGH-YIELD CORPORATE FUND,223,223,2026q2,False
+0000106444,S000002586,VANGUARD FIXED INCOME SECURITIES FUNDS,VANGUARD INTERMEDIATE-TERM INVESTMENT-GRADE FUND,137,137,2026q2,False
+0000106444,S000002591,VANGUARD FIXED INCOME SECURITIES FUNDS,VANGUARD SHORT-TERM INVESTMENT-GRADE FUND,173,173,2026q2,False
+0000106444,S000095284,VANGUARD FIXED INCOME SECURITIES FUNDS,VANGUARD HIGH-YIELD ACTIVE ETF,85,85,2026q2,False
+0000215829,S000050482,Fidelity School Street Trust,Fidelity Advisor Multi-Asset Income Fund,90,84,2026q2,True
+0000217087,S000010055,Guggenheim Variable Funds Trust,Series P (High Yield Series),167,142,2026q2,True
+0000217087,S000010066,Guggenheim Variable Funds Trust,Series E (Total Return Bond Series),149,97,2026q2,True
+0000217087,S000040553,Guggenheim Variable Funds Trust,Series F (Floating Rate Strategies Series),991,942,2026q2,True
+0000225030,S000009768,AFL CIO Housing Investment Trust,AFL CIO Housing Investment Trust,51,0,2026q2,True
+0000225322,S000007495,Fidelity Summer Street Trust,Fidelity Capital and Income Fund,393,373,2026q2,False
+0000225322,S000017689,Fidelity Summer Street Trust,Fidelity Focused High Income Fund,188,184,2026q2,False
+0000225322,S000017690,Fidelity Summer Street Trust,Fidelity High Income Fund,291,258,2026q2,False
+0000225322,S000031533,Fidelity Summer Street Trust,Fidelity Series Floating Rate High Income Fund,1906,1838,2026q2,True
+0000225322,S000031534,Fidelity Summer Street Trust,Fidelity Series High Income Fund,293,273,2026q2,False
+0000225322,S000042758,Fidelity Summer Street Trust,Fidelity Short Duration High Income Fund,392,370,2026q2,False
+0000225322,S000071838,Fidelity Summer Street Trust,Fidelity SAI High Income Fund,285,259,2026q2,False
+0000275694,,BARINGS CORPORATE INVESTORS,BARINGS CORPORATE INVESTORS,1612,20,2026q2,True
+0000276463,S000004071,"BlackRock Bond Fund, Inc.",BlackRock Total Return Fund,270,80,2026q2,True
+0000277751,S000010464,JANUS INVESTMENT FUND,Janus Henderson Balanced Fund,38,38,2026q2,True
+0000277751,S000010468,JANUS INVESTMENT FUND,Janus Henderson High-Yield Fund,54,54,2026q2,True
+0000277751,S000010479,JANUS INVESTMENT FUND,Janus Henderson Short Duration Flexible Bond Fund,57,57,2026q2,True
+0000277751,S000010492,JANUS INVESTMENT FUND,Janus Henderson Flexible Bond Fund,58,58,2026q2,True
+0000277751,S000044285,JANUS INVESTMENT FUND,Janus Henderson Multi-Sector Income Fund,277,277,2026q2,True
+0000277751,S000044287,JANUS INVESTMENT FUND,Janus Henderson Absolute Return Income Opportunities Fund,12,12,2026q2,True
+0000277751,S000057604,JANUS INVESTMENT FUND,Janus Henderson Developed World Bond Fund,90,90,2026q2,True
+0000278187,S000004516,"Prudential Investment Portfolios, Inc. 15",PGIM High Yield Fund,239,212,2026q2,False
+0000278187,S000038590,"Prudential Investment Portfolios, Inc. 15",PGIM Short Duration High Yield Income Fund,239,211,2026q2,False
+0000313212,S000047982,"T. ROWE PRICE INTERNATIONAL FUNDS, INC.",T. Rowe Price Global High Income Bond Fund,106,101,2026q2,True
+0000313212,S000047983,"T. ROWE PRICE INTERNATIONAL FUNDS, INC.",T. Rowe Price Dynamic Global Bond Fund,24,22,2026q2,True
+0000313212,S000063538,"T. ROWE PRICE INTERNATIONAL FUNDS, INC.",T. Rowe Price Dynamic Credit Fund,58,54,2026q2,True
+0000315554,S000000614,John Hancock Bond Trust,High Yield Fund,52,40,2026q2,False
+0000315554,S000065984,John Hancock Bond Trust,Short Duration Bond Fund,10,10,2026q2,False
+0000319108,S000003866,"BlackRock Series Fund, Inc.",BlackRock Global Allocation Portfolio,236,179,2026q2,True
+0000319676,S000046839,Calvert Management Series,Calvert Flexible Bond Fund,125,125,2026q2,True
+0000319676,S000059217,Calvert Management Series,Calvert Floating-Rate Advantage Fund,647,643,2026q2,False
+0000351601,S000029199,RUSSELL INVESTMENT CO,Opportunistic Credit Fund,6,2,2026q2,False
+0000351601,S000049244,RUSSELL INVESTMENT CO,Tax-Exempt High Yield Bond Fund,6,0,2025q3,False
+0000353905,S000005421,Nationwide Variable Insurance Trust,NVIT Loomis Short Term High Yield Fund,36,36,2026q2,True
+0000353905,S000005423,Nationwide Variable Insurance Trust,NVIT Strategic Income Fund,30,30,2026q2,True
+0000355916,S000002887,"BlackRock Variable Series Funds, Inc.",BlackRock Global Allocation V.I. Fund,477,404,2026q2,True
+0000356476,S000023756,"EMPOWER FUNDS, INC.",Empower Multi-Sector Bond Fund,4,4,2026q1,True
+0000356494,S000007718,Variable Insurance Products Fund,VIP High Income Portfolio,292,279,2026q2,True
+0000356494,S000044870,Variable Insurance Products Fund,VIP Floating Rate High Income Portfolio,1918,1836,2026q2,True
+0000356682,S000008717,Calvert Social Investment Fund,Calvert Balanced Fund,66,66,2026q2,True
+0000356682,S000008718,Calvert Social Investment Fund,Calvert Bond Fund,81,81,2026q2,True
+0000701039,S000005148,Calvert Fund,Calvert Income Fund,137,137,2026q2,True
+0000701039,S000005150,Calvert Fund,Calvert Short Duration Income Fund,45,45,2026q2,True
+0000701039,S000013508,Calvert Fund,Calvert Ultra-Short Duration Income Fund,28,28,2026q2,True
+0000701039,S000025875,Calvert Fund,Calvert High Yield Bond Fund,84,84,2026q2,True
+0000701804,S000005158,Merger Fund,The Merger Fund,13,13,2026q2,True
+0000702340,S000006731,Penn Series Funds Inc,Penn Series High Yield Bond Fund,10,10,2026q1,False
+0000702340,S000006734,Penn Series Funds Inc,Penn Series Flexibly Managed Fund,136,132,2026q2,True
+0000702533,S000032745,Fidelity Hanover Street Trust,Fidelity Emerging Markets Debt Central Fund,1,0,2026q2,True
+0000708950,S000008726,"Calvert Variable Series, Inc.",Calvert VP SRI Balanced Portfolio,46,46,2026q2,True
+0000710826,S000006511,Brighthouse Funds Trust II,BlackRock Bond Income Portfolio,143,100,2026q2,True
+0000710826,S000006522,Brighthouse Funds Trust II,Brighthouse/Wellington Balanced Portfolio,4,0,2026q2,True
+0000710826,S000006526,Brighthouse Funds Trust II,Western Asset Management Strategic Bond Opportunities Portfolio,439,437,2026q2,True
+0000711175,S000002206,Prudential Series Fund,PSF PGIM Total Return Bond Portfolio,61,57,2026q2,True
+0000711175,S000002228,Prudential Series Fund,PSF PGIM High Yield Bond Portfolio,207,188,2026q2,True
+0000717819,S000031692,"Prudential Investment Portfolios, Inc. 14",PGIM Floating Rate Income Fund,1148,1032,2026q2,False
+0000719423,S000008349,VALIC Co I,Global Strategy Fund,7,7,2026q2,False
+0000719423,S000069819,VALIC Co I,High Yield Bond Fund,22,22,2026q2,False
+0000722574,S000017683,Fidelity Advisor Series I,Fidelity Advisor Floating Rate High Income Fund,1990,1906,2026q2,False
+0000722574,S000017684,Fidelity Advisor Series I,Fidelity Advisor Capital and Income Fund,393,373,2026q2,False
+0000722574,S000017688,Fidelity Advisor Series I,Fidelity Real Estate High Income Fund,5,0,2026q2,False
+0000723620,S000007832,NEUBERGER BERMAN INCOME FUNDS,Neuberger High Income Bond Fund,42,41,2026q2,False
+0000723620,S000007834,NEUBERGER BERMAN INCOME FUNDS,Neuberger Strategic Income Fund,40,40,2026q2,False
+0000723620,S000027216,NEUBERGER BERMAN INCOME FUNDS,Neuberger Floating Rate Income Fund,1543,1423,2026q2,False
+0000729528,S000008787,AMERICAN FUNDS INSURANCE SERIES,American High Income Trust,229,195,2026q2,True
+0000729528,S000008796,AMERICAN FUNDS INSURANCE SERIES,Asset Allocation Fund,106,76,2026q2,True
+0000729528,S000008797,AMERICAN FUNDS INSURANCE SERIES,The Bond Fund of America,4,0,2026q2,True
+0000729528,S000013796,AMERICAN FUNDS INSURANCE SERIES,Capital World Bond Fund,92,76,2026q2,True
+0000729528,S000045163,AMERICAN FUNDS INSURANCE SERIES,Capital Income Builder,5,1,2026q2,True
+0000731890,S000069612,"T. ROWE PRICE SHORT-TERM BOND FUND, INC.",T. Rowe Price Short Duration Income Fund,45,43,2026q2,False
+0000736054,S000090502,VANGUARD STAR FUNDS,VANGUARD STAR CORE-PLUS BOND FUND,96,96,2026q2,False
+0000736913,S000008198,NEUBERGER BERMAN ADVISERS MANAGEMENT TRUST,Short Duration Bond Portfolio,45,43,2026q2,True
+0000741375,S000035938,MORGAN STANLEY INSTITUTIONAL FUND TRUST,High Yield Portfolio,20,20,2026q1,False
+0000742212,S000018235,NORTHWESTERN MUTUAL SERIES FUND INC,Multi-Sector Bond Portfolio,183,162,2026q2,True
+0000745463,S000008473,Eaton Vance Mutual Funds Trust,Eaton Vance Global Income Builder Fund,120,120,2026q2,False
+0000745463,S000026932,Eaton Vance Mutual Funds Trust,Eaton Vance Total Return Bond Fund,59,59,2026q2,True
+0000745463,S000033949,Eaton Vance Mutual Funds Trust,Eaton Vance Multi-Asset Credit Fund,1127,1118,2026q2,False
+0000745463,S000042789,Eaton Vance Mutual Funds Trust,Eaton Vance Short Duration High Income Fund,99,99,2026q2,False
+0000747677,S000031152,DEUTSCHE DWS INCOME TRUST,DWS Short Duration Fund,15,15,2026q2,True
+0000747677,S000031154,DEUTSCHE DWS INCOME TRUST,DWS High Income Fund,33,33,2026q2,True
+0000747677,S000031157,DEUTSCHE DWS INCOME TRUST,DWS Global High Income Fund,26,26,2026q2,False
+0000751173,S000003632,"Manning & Napier Fund, Inc.",Unconstrained Bond Series,6,6,2026q2,True
+0000751173,S000003634,"Manning & Napier Fund, Inc.",High Yield Bond Series,6,6,2026q2,True
+0000751199,S000007066,Fidelity Income Fund,Fidelity Total Bond Fund,2025,1927,2026q2,False
+0000751199,S000057288,Fidelity Income Fund,Fidelity Total Bond K6 Fund,281,269,2026q2,False
+0000754510,S000007192,Fidelity Securities Fund,Fidelity Real Estate Income Fund,45,41,2026q2,False
+0000754510,S000031548,Fidelity Securities Fund,Fidelity Series Real Estate Income Fund,11,7,2026q2,False
+0000754510,S000102364,Fidelity Securities Fund,Fidelity SAI Real Estate Income Fund,10,10,2026q2,False
+0000754915,S000002132,"T. ROWE PRICE HIGH YIELD FUND, INC.","T. Rowe Price High Yield Fund, Inc.",64,60,2026q2,False
+0000754915,S000057617,"T. ROWE PRICE HIGH YIELD FUND, INC.",T. Rowe Price U.S. High Yield Fund,29,29,2026q2,False
+0000756913,S000008233,John Hancock Variable Insurance Trust,Opportunistic Fixed Income Trust,140,140,2026q2,True
+0000756913,S000008236,John Hancock Variable Insurance Trust,Active Bond Trust,22,22,2026q2,True
+0000756913,S000008240,John Hancock Variable Insurance Trust,High Yield Trust,35,31,2026q2,True
+0000756913,S000008320,John Hancock Variable Insurance Trust,Strategic Income Opportunities Trust,157,157,2026q2,True
+0000756913,S000021933,John Hancock Variable Insurance Trust,Capital Appreciation Value Trust,133,133,2026q2,True
+0000757010,S000006913,Franklin Tax Free Trust,Franklin High Yield Tax-Free Income Fund,2,0,2025q4,False
+0000757010,S000006933,Franklin Tax Free Trust,Franklin Federal Limited-Term Tax-Free Income Fund,1,1,2025q3,False
+0000759828,,John Hancock Investors Trust,John Hancock Investors Trust,99,99,2026q2,False
+0000759866,,John Hancock Income Securities Trust,John Hancock Income Securities Trust,21,21,2026q2,False
+0000763852,S000003477,JPMorgan Trust II,JPMorgan Core Bond Fund,4,4,2026q2,False
+0000763852,S000003478,JPMorgan Trust II,JPMorgan Core Plus Bond Fund,243,215,2026q2,False
+0000763852,S000003486,JPMorgan Trust II,JPMorgan High Yield Fund,318,290,2026q2,False
+0000764624,S000008972,Legg Mason Partners Income Trust,Western Asset Income Fund,375,349,2026q2,False
+0000764624,S000008975,Legg Mason Partners Income Trust,Western Asset Short Duration High Income Fund,177,167,2026q2,False
+0000764624,S000016624,Legg Mason Partners Income Trust,Western Asset Ultra-Short Income Fund,64,62,2026q2,False
+0000764624,S000016627,Legg Mason Partners Income Trust,Western Asset Corporate Bond Fund,30,29,2026q2,True
+0000764624,S000016639,Legg Mason Partners Income Trust,Western Asset Short-Term Bond Fund,39,38,2026q2,True
+0000766351,S000024505,Securian Funds Trust,SFT Core Bond Fund,446,446,2026q2,True
+0000769220,S000003919,Delaware Group Government Fund,Nomura Strategic Income Fund,110,110,2026q2,False
+0000773757,S000010617,COLUMBIA FUNDS SERIES TRUST I,Columbia Strategic Income Fund,1426,1391,2026q2,False
+0000773757,S000012068,COLUMBIA FUNDS SERIES TRUST I,Columbia Balanced Fund,23,22,2026q2,False
+0000773757,S000012096,COLUMBIA FUNDS SERIES TRUST I,Columbia Select Corporate Income Fund,24,23,2026q2,False
+0000773757,S000012097,COLUMBIA FUNDS SERIES TRUST I,Columbia Total Return Bond Fund,1120,1107,2026q2,False
+0000773757,S000036205,COLUMBIA FUNDS SERIES TRUST I,Multi-Manager Total Return Bond Strategies Fund,459,432,2026q2,False
+0000773757,S000036207,COLUMBIA FUNDS SERIES TRUST I,Multi-Manager Alternative Strategies Fund,152,152,2026q2,False
+0000773757,S000066845,COLUMBIA FUNDS SERIES TRUST I,Multisector Bond SMA Completion Portfolio,285,283,2026q2,False
+0000777535,S000005084,College Retirement Equities Fund,College Retirement Equities Fund - Core Bond Account,142,142,2026q2,True
+0000777535,S000005085,College Retirement Equities Fund,College Retirement Equities Fund - Inflation-Linked Bond Account,46,46,2026q2,True
+0000777535,S000005086,College Retirement Equities Fund,College Retirement Equities Fund - Responsible Balanced Account,14,10,2026q2,True
+0000778207,S000007909,TRANSAMERICA SERIES TRUST,Transamerica AEGON High Yield Bond VP,42,42,2026q2,True
+0000778207,S000007911,TRANSAMERICA SERIES TRUST,Transamerica Aegon Bond VP,3,3,2026q1,False
+0000778207,S000025012,TRANSAMERICA SERIES TRUST,Transamerica Janus Balanced VP,34,34,2026q2,True
+0000787441,S000006894,NEW YORK LIFE INVESTMENTS FUNDS,NYLI MacKay Strategic Bond Fund,82,82,2026q2,False
+0000787441,S000006896,NEW YORK LIFE INVESTMENTS FUNDS,NYLI MacKay High Yield Corporate Bond Fund,219,207,2026q2,False
+0000787441,S000006900,NEW YORK LIFE INVESTMENTS FUNDS,NYLI Income Builder Fund,31,31,2026q2,False
+0000787623,S000007793,TRANSAMERICA FUNDS,Transamerica High Yield Bond,63,63,2026q2,False
+0000787623,S000007796,TRANSAMERICA FUNDS,Transamerica Bond,5,5,2026q1,False
+0000787623,S000042771,TRANSAMERICA FUNDS,Transamerica Floating Rate,1089,1086,2026q2,False
+0000787623,S000047479,TRANSAMERICA FUNDS,Transamerica Strategic Income,797,794,2026q2,False
+0000787836,S000005762,Putnam High Yield Fund,Putnam High Yield Fund,134,134,2026q2,False
+0000792359,S000001950,Virtus Variable Insurance Trust,Virtus Newfleet Multi-Sector Intermediate Bond Series,4,0,2026q2,True
+0000792359,S000001966,Virtus Variable Insurance Trust,Virtus Tactical Allocation Series,4,0,2026q2,True
+0000792858,S000000648,John Hancock Strategic Series,Income Fund,137,137,2026q2,False
+0000792858,S000065849,John Hancock Strategic Series,John Hancock Managed Account Shares Non-Investment-Grade Corporate Bond Portfolio,20,20,2026q2,False
+0000793159,S000004375,"Prudential Global Total Return Fund, Inc.",PGIM Global Total Return Fund,10,10,2026q2,False
+0000793159,S000059804,"Prudential Global Total Return Fund, Inc.",PGIM Global Total Return (USD Hedged) Fund,4,4,2026q2,False
+0000793347,S000002070,"T. ROWE PRICE CAPITAL APPRECIATION FUND, INC.",T. Rowe Price Capital Appreciation Fund,134,132,2026q2,True
+0000793347,S000081993,"T. ROWE PRICE CAPITAL APPRECIATION FUND, INC.",T. Rowe Price Capital Appreciation and Income Fund,110,110,2026q2,True
+0000795422,S000005131,Fidelity Advisor Series II,Fidelity Advisor Limited Term Bond Fund,360,349,2026q2,False
+0000795422,S000005152,Fidelity Advisor Series II,Fidelity Advisor Strategic Income Fund,380,367,2026q2,True
+0000802716,S000053572,Victory Portfolios,Victory High Yield Fund,101,98,2026q2,True
+0000802716,S000053575,Victory Portfolios,Victory Floating Rate Fund,555,550,2026q2,True
+0000804239,S000006667,SEI INSTITUTIONAL MANAGED TRUST,SIMT Core Fixed Income Fund,378,378,2026q2,True
+0000804239,S000006673,SEI INSTITUTIONAL MANAGED TRUST,SIMT High Yield Bond Fund,542,483,2026q2,False
+0000804239,S000028026,SEI INSTITUTIONAL MANAGED TRUST,SIMT Multi-Strategy Alternatives Fund,279,233,2026q2,True
+0000804239,S000035780,SEI INSTITUTIONAL MANAGED TRUST,SIMT Multi-Asset Income Fund,238,234,2026q2,True
+0000809559,,TCW STRATEGIC INCOME FUND INC,TCW STRATEGIC INCOME FUND INC,12,12,2026q2,True
+0000809593,S000052009,AMERICAN BEACON FUNDS,American Beacon DoubleLine Floating Rate Fund,755,740,2026q2,False
+0000809707,S000006853,Franklin Investors Securities Trust,Franklin Floating Rate Daily Access Fund,1022,1020,2026q2,False
+0000809707,S000006855,Franklin Investors Securities Trust,Franklin Low Duration Total Return Fund,10378,547,2026q2,False
+0000809707,S000006857,Franklin Investors Securities Trust,Franklin Total Return Fund,10100,545,2026q2,False
+0000810016,S000006224,Ivy Variable Insurance Portfolios,Macquarie VIP Asset Strategy Series,16,16,2025q3,False
+0000810016,S000006235,Ivy Variable Insurance Portfolios,Macquarie VIP Balanced Series,16,16,2025q3,False
+0000810016,S000006242,Ivy Variable Insurance Portfolios,Nomura VIP High Income Series,83,83,2026q2,True
+0000810573,S000006280,DEUTSCHE DWS VARIABLE SERIES II,DWS High Income VIP,30,30,2026q2,True
+0000810695,S000065726,Mutual Fund & Variable Insurance Trust,Rational Special Situations Income Fund,4,4,2026q2,True
+0000810766,,"CREDIT SUISSE ASSET MANAGEMENT INCOME FUND, INC.","CREDIT SUISSE ASSET MANAGEMENT INCOME FUND, INC.",263,225,2026q2,True
+0000810893,S000009677,PIMCO Funds,PIMCO Low Duration Income Fund,143,61,2026q2,True
+0000810893,S000009678,PIMCO Funds,PIMCO International Bond Fund (U.S. Dollar-Hedged),33,6,2026q2,True
+0000810893,S000009679,PIMCO Funds,PIMCO International Bond Fund (Unhedged),5,4,2026q2,True
+0000810893,S000009681,PIMCO Funds,PIMCO RAE PLUS Fund,4,0,2026q2,True
+0000810893,S000009682,PIMCO Funds,PIMCO Global Bond Opportunities Fund (U.S. Dollar-Hedged),22,2,2026q2,True
+0000810893,S000009685,PIMCO Funds,PIMCO High Yield Fund,144,127,2026q2,True
+0000810893,S000009687,PIMCO Funds,PIMCO StocksPLUS International Fund (U.S. Dollar-Hedged),10,4,2026q2,True
+0000810893,S000009688,PIMCO Funds,PIMCO Investment Grade Credit Bond Fund,59,17,2026q2,True
+0000810893,S000009691,PIMCO Funds,PIMCO Low Duration Fund,2,0,2026q2,True
+0000810893,S000009694,PIMCO Funds,PIMCO Moderate Duration Fund,28,15,2026q2,True
+0000810893,S000009704,PIMCO Funds,PIMCO StocksPLUS Fund,4,4,2026q2,True
+0000810893,S000009705,PIMCO Funds,PIMCO StocksPLUS Absolute Return Fund,6,0,2026q2,True
+0000810893,S000009707,PIMCO Funds,PIMCO Total Return Fund,72,11,2026q2,True
+0000810893,S000009710,PIMCO Funds,PIMCO Total Return ESG Fund,12,0,2026q2,True
+0000810893,S000009713,PIMCO Funds,PIMCO Emerging Markets Currency and Short-Term Investments Fund,46,5,2026q2,True
+0000810893,S000009714,PIMCO Funds,PIMCO Diversified Income Fund,245,156,2026q2,True
+0000810893,S000009715,PIMCO Funds,PIMCO Emerging Markets Bond Fund,73,9,2026q2,True
+0000810893,S000009850,PIMCO Funds,PIMCO High Yield and Short-Term Investments Portfolio,96,81,2026q2,True
+0000810893,S000009852,PIMCO Funds,PIMCO Investment Grade Credit Bond Portfolio,4,0,2026q2,True
+0000810893,S000012844,PIMCO Funds,PIMCO High Yield Municipal Bond Fund,41,0,2026q2,True
+0000810893,S000013232,PIMCO Funds,PIMCO Long Duration Total Return Fund,40,28,2026q2,True
+0000810893,S000014994,PIMCO Funds,PIMCO Emerging Markets Local Currency and Bond Fund,68,9,2026q2,True
+0000810893,S000016548,PIMCO Funds,PIMCO Income Fund,190,90,2026q2,True
+0000810893,S000018588,PIMCO Funds,PIMCO StocksPLUS Long Duration Fund,12,3,2026q2,True
+0000810893,S000022556,PIMCO Funds,PIMCO Global Advantage Strategy Bond Fund,4,0,2026q2,True
+0000810893,S000022557,PIMCO Funds,PIMCO Dynamic Bond Fund,56,42,2026q2,True
+0000810893,S000024285,PIMCO Funds,PIMCO Long Duration Credit Bond Portfolio,19,4,2026q2,True
+0000810893,S000024795,PIMCO Funds,PIMCO Low Duration Opportunities Fund,10,10,2026q2,True
+0000810893,S000025202,PIMCO Funds,PIMCO Long-Term Credit Bond Fund,55,23,2026q2,True
+0000810893,S000025820,PIMCO Funds,PIMCO Emerging Markets Corporate Bond Fund,16,4,2026q2,True
+0000810893,S000029813,PIMCO Funds,PIMCO High Yield Spectrum Fund,226,187,2026q2,True
+0000810893,S000031641,PIMCO Funds,PIMCO Low Duration Credit Fund,796,738,2026q2,True
+0000810893,S000033596,PIMCO Funds,PIMCO Credit Opportunities Bond Fund,38,30,2026q2,True
+0000810893,S000038441,PIMCO Funds,PIMCO Mortgage Opportunities and Bond Fund,6,0,2026q2,True
+0000810893,S000039671,PIMCO Funds,PIMCO Emerging Markets Full Spectrum Bond Fund,1,0,2026q2,True
+0000810893,S000069193,PIMCO Funds,PIMCO ESG Income Fund,5,4,2026q2,True
+0000810893,S000069547,PIMCO Funds,PIMCO All Asset: Multi-RAE PLUS Fund,8,4,2026q2,True
+0000810893,S000071787,PIMCO Funds,PIMCO Sector Fund Series - H,152,132,2026q2,True
+0000810893,S000071788,PIMCO Funds,PIMCO Sector Fund Series - I,12,0,2026q2,True
+0000811030,S000036429,Professionally Managed Portfolios,Muzinich Flexible U.S. High Yield Income Fund,144,144,2026q2,True
+0000811030,S000036430,Professionally Managed Portfolios,Muzinich Dynamic Income Fund,4,4,2026q1,True
+0000811030,S000054438,Professionally Managed Portfolios,Muzinich Low Duration Fund,109,109,2026q2,True
+0000811968,S000009000,Capital Income Builder,Capital Income Builder,69,65,2026q2,False
+0000812303,S000009240,Capital World Bond Fund,Capital World Bond Fund,168,142,2026q2,True
+0000813900,S000026010,PACIFIC SELECT FUND,High Yield Bond Portfolio,38,30,2026q2,True
+0000813900,S000026011,PACIFIC SELECT FUND,Total Return Portfolio,4,1,2026q2,True
+0000813900,S000026026,PACIFIC SELECT FUND,Diversified Bond Portfolio,107,100,2026q2,True
+0000813900,S000036461,PACIFIC SELECT FUND,Floating Rate Income Portfolio,511,449,2026q2,True
+0000813900,S000048866,PACIFIC SELECT FUND,Core Income Portfolio,113,108,2026q2,True
+0000813900,S000095644,PACIFIC SELECT FUND,Capital Appreciation Portfolio,61,55,2026q2,True
+0000814230,S000065942,Delaware VIP Trust,Nomura VIP Fund for Income Series,76,76,2026q2,True
+0000814679,S000002009,Advanced Series Trust,AST J.P. Morgan Conservative Multi-Asset Portfolio,20,3,2026q2,True
+0000814679,S000006791,Advanced Series Trust,AST Aggressive Asset Allocation Portfolio,26,26,2026q2,True
+0000814679,S000006792,Advanced Series Trust,AST Multi-Asset Diversified Plus Portfolio,17,17,2026q2,True
+0000814679,S000006793,Advanced Series Trust,AST Balanced Asset Allocation Portfolio,35,35,2026q2,True
+0000814679,S000006794,Advanced Series Trust,AST Preservation Asset Allocation Portfolio,28,28,2026q2,True
+0000814679,S000006796,Advanced Series Trust,AST PGIM Aggressive Multi-Asset Portfolio,30,30,2026q2,True
+0000814679,S000006797,Advanced Series Trust,AST Multi-Asset Diversified Portfolio,19,19,2026q2,True
+0000814679,S000019378,Advanced Series Trust,AST J.P. Morgan Moderate Multi-Asset Portfolio,14,1,2026q2,True
+0000814679,S000019381,Advanced Series Trust,AST Core Fixed Income Portfolio,38,7,2026q2,True
+0000814679,S000077474,Advanced Series Trust,AST PGIM Fixed Income Central Portfolio,1,1,2025q3,False
+0000815425,S000012560,COLUMBIA FUNDS VARIABLE INSURANCE TRUST,Columbia Variable Portfolio - Strategic Income Fund,671,662,2026q2,True
+0000816153,S000011851,THORNBURG INVESTMENT TRUST,Thornburg Investment Income Builder Fund,30,30,2026q2,True
+0000816153,S000020097,THORNBURG INVESTMENT TRUST,Thornburg Strategic Income Fund,109,109,2026q2,True
+0000816153,S000064930,THORNBURG INVESTMENT TRUST,Thornburg Summit Fund,4,4,2026q2,True
+0000819940,S000042108,"BNY Mellon Investment Funds IV, Inc.",BNY Mellon Floating Rate Income Fund,1006,1006,2026q2,False
+0000820892,S000005544,"Nuveen Investment Funds, Inc.",Nuveen Credit Income Fund,219,219,2026q2,False
+0000820892,S000005573,"Nuveen Investment Funds, Inc.",Nuveen Strategic Income Fund,222,222,2026q2,False
+0000820892,S000033768,"Nuveen Investment Funds, Inc.",Nuveen Real Asset Income Fund,76,76,2026q2,True
+0000822671,S000003875,Putnam Variable Trust,Putnam VT High Yield Fund,124,123,2026q2,True
+0000822671,S000003876,Putnam Variable Trust,Putnam VT Income Fund,89,89,2026q2,True
+0000822671,S000003893,Putnam Variable Trust,Putnam VT Diversified Income Fund,225,225,2026q2,True
+0000822671,S000003896,Putnam Variable Trust,Putnam VT Global Asset Allocation Fund,191,190,2026q2,True
+0000822977,S000009252,Goldman Sachs Trust,Goldman Sachs Dynamic Municipal Income Fund,2,0,2025q3,False
+0000822977,S000009255,Goldman Sachs Trust,Goldman Sachs High Yield Municipal Fund,2,0,2025q3,False
+0000822977,S000009309,GOLDMAN SACHS TRUST,Goldman Sachs High Yield Fund,137,137,2026q2,True
+0000822977,S000009342,GOLDMAN SACHS TRUST,Goldman Sachs Income Builder Fund,236,236,2026q2,False
+0000822977,S000013795,GOLDMAN SACHS TRUST,Goldman Sachs Bond Fund,17,17,2026q2,True
+0000822977,S000029317,GOLDMAN SACHS TRUST,Goldman Sachs Dynamic Bond Fund,161,161,2026q2,True
+0000822977,S000029320,GOLDMAN SACHS TRUST,Goldman Sachs High Yield Floating Rate Fund,1303,1285,2026q2,True
+0000822977,S000043227,GOLDMAN SACHS TRUST,Goldman Sachs Short Duration High Yield Fund,175,169,2026q2,True
+0000822977,S000067093,GOLDMAN SACHS TRUST,Goldman Sachs Income Fund,157,157,2026q2,True
+0000823535,S000017666,Variable Insurance Products Fund V,VIP Strategic Income Portfolio,382,368,2026q2,True
+0000823620,S000009230,American High Income Trust,American High Income Trust,235,201,2026q2,True
+0000825063,S000007861,Franklin Mutual Series Funds,Franklin Mutual Global Discovery Fund,17,17,2026q2,True
+0000825063,S000007863,Franklin Mutual Series Funds,Franklin Mutual Quest Fund,48,40,2026q2,True
+0000825063,S000007864,Franklin Mutual Series Funds,Franklin Mutual Shares Fund,17,17,2026q2,True
+0000826020,,Saba Capital Income & Opportunities Fund,Saba Capital Income & Opportunities Fund,57,56,2026q2,False
+0000826644,S000064696,AIM Investment Funds (Invesco Investment Funds),Invesco Multi-Strategy Fund,3,3,2026q2,False
+0000826644,S000064708,AIM Investment Funds (Invesco Investment Funds),Invesco Global Strategic Income Fund,47,39,2026q2,False
+0000826732,S000004057,CALAMOS INVESTMENT TRUST/IL,Calamos High Income Opportunities Fund,242,242,2026q2,False
+0000826732,S000017871,CALAMOS INVESTMENT TRUST/IL,Calamos Total Return Bond Fund,18,18,2025q4,False
+0000826732,S000062995,CALAMOS INVESTMENT TRUST/IL,Calamos Short-Term Bond Fund,167,167,2026q2,False
+0000827773,,Putnam Premier Income Trust,Putnam Premier Income Trust,249,249,2026q2,False
+0000828803,,Saba Capital Income & Opportunities Fund II,Saba Capital Income & Opportunities Fund II,41,40,2026q2,False
+0000830622,,Putnam Master Intermediate Income Trust,Putnam Master Intermediate Income Trust,238,238,2026q2,True
+0000831655,,BARINGS PARTICIPATION INVESTORS,BARINGS PARTICIPATION INVESTORS,1592,20,2026q2,True
+0000833040,,Franklin Universal Trust,Franklin Universal Trust,1777,4,2026q2,False
+0000834237,S000002245,"BlackRock Global Allocation Fund, Inc.","BlackRock Global Allocation Fund, Inc.",908,756,2026q2,False
+0000835333,,Invesco Municipal Income Opportunities Trust,Invesco Municipal Income Opportunities Trust,1,1,2025q3,False
+0000835597,S000006421,SEI INSTITUTIONAL INTERNATIONAL TRUST,SIT Emerging Markets Debt Fund,19,10,2026q2,True
+0000835620,S000002866,"BlackRock Strategic Global Bond Fund, Inc.","BlackRock Strategic Global Bond Fund, Inc.",186,123,2026q2,True
+0000836267,S000054578,SCM Trust,SHELTON TACTICAL CREDIT FUND,12,12,2026q2,True
+0000836412,,Virtus Total Return Fund Inc.,Virtus Total Return Fund Inc.,475,464,2026q2,False
+0000836622,S000005529,Putnam Diversified Income Trust,Putnam Diversified Income Trust,241,241,2026q2,True
+0000836906,S000053068,VANGUARD MALVERN FUNDS,VANGUARD CORE BOND FUND,121,121,2026q2,True
+0000836906,S000073842,VANGUARD MALVERN FUNDS,VANGUARD MULTI-SECTOR INCOME BOND FUND,155,155,2026q2,True
+0000836906,S000073843,VANGUARD MALVERN FUNDS,VANGUARD CORE-PLUS BOND FUND,128,128,2026q2,True
+0000836906,S000083197,VANGUARD MALVERN FUNDS,VANGUARD CORE BOND ETF,47,47,2026q2,True
+0000836906,S000083198,VANGUARD MALVERN FUNDS,VANGUARD CORE-PLUS BOND ETF,104,104,2026q2,True
+0000836906,S000091408,VANGUARD MALVERN FUNDS,VANGUARD SHORT DURATION BOND ETF,103,103,2026q2,True
+0000836906,S000093098,VANGUARD MALVERN FUNDS,VANGUARD MULTI-SECTOR INCOME BOND ETF,96,96,2026q2,True
+0000837274,S000007316,Franklin Templeton Variable Insurance Products Trust,Franklin Strategic Income VIP Fund,1245,472,2026q2,True
+0000837274,S000007319,Franklin Templeton Variable Insurance Products Trust,Franklin Mutual Global Discovery VIP Fund,16,16,2026q2,True
+0000837274,S000007320,Franklin Templeton Variable Insurance Products Trust,Franklin Mutual Shares VIP Fund,16,16,2026q2,True
+0000837274,S000007329,Franklin Templeton Variable Insurance Products Trust,Franklin Income VIP Fund,18,18,2026q2,True
+0000837276,S000005759,Voya Investors Trust,VY(R) T. ROWE PRICE CAPITAL APPRECIATION PORTFOLIO,169,169,2026q2,True
+0000838131,,Nuveen Multi-Market Income Fund,Nuveen Multi-Market Income Fund,12,12,2026q2,True
+0000842790,S000000243,AIM Investment Securities Funds (Invesco Investment Securities Funds),Invesco High Yield Fund,64,57,2026q2,False
+0000842790,S000000256,AIM Investment Securities Funds (Invesco Investment Securities Funds),Invesco Short Term Bond Fund,17,16,2026q2,False
+0000842790,S000027851,AIM Investment Securities Funds (Invesco Investment Securities Funds),Invesco Corporate Bond Fund,26,25,2026q2,False
+0000846671,,Invesco High Income Trust II,Invesco High Income Trust II,60,54,2026q2,False
+0000851680,S000003424,Domini Investment Trust,Domini Impact Bond Fund,67,60,2026q2,False
+0000853180,,Invesco Senior Loan Fund,Invesco Senior Loan Fund,1627,1346,2026q2,False
+0000855396,S000007299,LORD ABBETT SERIES FUND INC,Bond-Debenture Portfolio,116,110,2026q2,True
+0000855396,S000028721,LORD ABBETT SERIES FUND INC,Total Return Portfolio,68,68,2026q2,True
+0000855396,S000045029,LORD ABBETT SERIES FUND INC,Short Duration Income Portfolio,89,87,2026q2,True
+0000857490,S000004393,VANGUARD VARIABLE INSURANCE FUNDS,SHORT-TERM INVESTMENT-GRADE PORTFOLIO,159,159,2026q2,True
+0000857490,S000004402,VANGUARD VARIABLE INSURANCE FUNDS,HIGH-YIELD BOND PORTFOLIO,219,219,2026q2,True
+0000858744,S000009599,SMALLCAP World Fund Inc,SMALLCAP World Fund Inc,3,0,2026q1,False
+0000863520,S000000714,Western Asset Funds Inc,Western Asset Core Plus Bond Fund,152,149,2026q2,True
+0000863520,S000000716,Western Asset Funds Inc,Western Asset High Yield Fund,121,116,2026q2,False
+0000863520,S000012738,Western Asset Funds Inc,Western Asset Total Return Unconstrained Fund,23,23,2026q2,False
+0000870780,,Nuveen Pennsylvania Quality Municipal Income Fund,Nuveen Pennsylvania Quality Municipal Income Fund,4,0,2026q2,False
+0000872323,S000002760,HARRIS ASSOCIATES INVESTMENT TRUST,Oakmark Equity and Income Fund,46,46,2026q2,True
+0000872323,S000068760,HARRIS ASSOCIATES INVESTMENT TRUST,Oakmark Bond Fund,37,37,2026q2,True
+0000872625,S000006879,Franklin Strategic Series,Franklin Core Plus Bond Fund,13572,486,2026q2,False
+0000872625,S000006888,Franklin Strategic Series,Franklin Small-Mid Cap Growth Fund,4,0,2026q2,False
+0000872625,S000065651,Franklin Strategic Series,Franklin Templeton SMACS Series I,18,18,2026q2,False
+0000872649,S000006698,LOOMIS SAYLES FUNDS II,Loomis Sayles Global Allocation Fund,143,143,2026q2,True
+0000872649,S000006700,LOOMIS SAYLES FUNDS II,Loomis Sayles High Income Fund,122,122,2026q2,True
+0000872649,S000006701,LOOMIS SAYLES FUNDS II,Loomis Sayles Investment Grade Bond Fund,126,126,2026q2,True
+0000872649,S000006706,LOOMIS SAYLES FUNDS II,Loomis Sayles Strategic Income Fund,141,141,2026q2,True
+0000874835,S000016930,Legg Mason Partners Variable Income Trust,Western Asset Core Plus VIT Portfolio,105,103,2026q2,True
+0000874835,S000017004,Legg Mason Partners Variable Income Trust,Western Asset Variable Global High Yield Bond Portfolio,69,68,2026q2,True
+0000874835,S000080158,Legg Mason Partners Variable Income Trust,Western Asset Long Credit VIT,22,22,2026q2,True
+0000875186,S000008437,MORGAN STANLEY PATHWAY FUNDS,Core Fixed Income Fund,21,21,2026q2,False
+0000875186,S000008438,MORGAN STANLEY PATHWAY FUNDS,High Yield Fund,7,7,2026q2,False
+0000875352,S000003937,Delaware Pooled Trust,Nomura Global Listed Real Assets Fund,19,19,2026q2,False
+0000880268,S000035738,American Century International Bond Funds,Global Bond Fund,3,3,2026q1,False
+0000880366,S000071892,Legg Mason Partners Investment Trust,BrandywineGLOBAL - HIGH YIELD FUND,32,30,2026q2,True
+0000880366,S000071893,Legg Mason Partners Investment Trust,BrandywineGLOBAL - CORPORATE CREDIT FUND,47,46,2026q2,True
+0000881309,S000006860,Franklin Municipal Securities Trust,Franklin California High Yield Municipal Fund,2,0,2025q4,False
+0000882381,S000002382,Morgan Stanley Income Opportunities Fund,Morgan Stanley Income Opportunities Fund,2,2,2025q4,False
+0000883622,S000006283,IVY FUNDS,Nomura Asset Strategy Fund,12,12,2026q2,False
+0000883622,S000006289,IVY FUNDS,Nomura High Income Fund,83,83,2026q2,True
+0000883622,S000024823,IVY FUNDS,Macquarie Balanced Fund,16,16,2025q3,False
+0000883676,S000010128,"AB GLOBAL BOND FUND, INC.","AB GLOBAL BOND FUND, INC.",26,25,2026q2,True
+0000885709,S000011761,PAYDEN & RYGEL INVESTMENT GROUP,Payden Core Bond Fund,15,15,2026q2,False
+0000885709,S000011763,PAYDEN & RYGEL INVESTMENT GROUP,Payden Global Fixed Income Fund,6,6,2026q2,False
+0000885709,S000011767,PAYDEN & RYGEL INVESTMENT GROUP,Payden High Income Fund,105,105,2026q2,False
+0000885709,S000022678,PAYDEN & RYGEL INVESTMENT GROUP,Payden Managed Income Fund,118,118,2026q2,False
+0000885709,S000025162,PAYDEN & RYGEL INVESTMENT GROUP,Payden Corporate Bond Fund,7,7,2026q2,False
+0000885709,S000042521,PAYDEN & RYGEL INVESTMENT GROUP,Payden Floating Rate Fund,574,574,2026q2,False
+0000885709,S000042522,PAYDEN & RYGEL INVESTMENT GROUP,Payden Emerging Markets Corporate Bond Fund,5,5,2026q2,False
+0000885709,S000045226,PAYDEN & RYGEL INVESTMENT GROUP,Payden Strategic Income Fund,35,35,2026q2,False
+0000885709,S000047032,PAYDEN & RYGEL INVESTMENT GROUP,Payden Absolute Return Bond Fund,116,116,2026q2,False
+0000887340,S000009438,NEW YORK LIFE INVESTMENTS VP FUNDS TRUST,NYLIM VP Floating Rate Portfolio,1585,1582,2026q2,True
+0000887340,S000009444,NEW YORK LIFE INVESTMENTS VP FUNDS TRUST,NYLIM VP Income Builder Portfolio,30,30,2026q2,True
+0000887340,S000009448,NEW YORK LIFE INVESTMENTS VP FUNDS TRUST,NYLIM VP MacKay High Yield Corporate Bond Portfolio,218,206,2026q2,True
+0000887340,S000031904,NEW YORK LIFE INVESTMENTS VP FUNDS TRUST,NYLIM VP MacKay Strategic Bond Portfolio,62,62,2026q2,True
+0000887340,S000033928,NEW YORK LIFE INVESTMENTS VP FUNDS TRUST,NYLIM VP Janus Henderson Balanced Portfolio,38,38,2026q2,True
+0000887991,S000065752,Prudential Investment Portfolios 8,PGIM Securitized Credit Fund,12,12,2026q2,True
+0000889512,S000014683,Legg Mason Partners Institutional Trust,Western Asset SMASh Series Core Plus Completion Fund,118,116,2026q2,True
+0000890453,S000053356,Wilshire Mutual Funds Inc,Wilshire Income Opportunities Fund,958,958,2026q2,True
+0000892538,S000052512,SUNAMERICA SERIES TRUST,SA T. Rowe Price VCP Balanced Portfolio,27,27,2026q2,False
+0000893818,S000079204,BlackRock Funds III,BlackRock Diversified Fixed Income Fund,38,30,2026q2,False
+0000896435,S000000181,AIM Variable Insurance Funds (Invesco Variable Insurance Funds),Invesco V.I. High Yield Fund,59,53,2026q2,True
+0000896435,S000000205,AIM Variable Insurance Funds (Invesco Variable Insurance Funds),Invesco V.I. Core Plus Bond Fund,4,4,2026q2,True
+0000896435,S000064661,AIM Variable Insurance Funds (Invesco Variable Insurance Funds),Invesco V.I. Global Strategic Income Fund,46,40,2026q2,True
+0000898745,S000006952,"Principal Funds, Inc",Core Plus Bond Fund,134,134,2026q2,False
+0000898745,S000014241,"Principal Funds, Inc",High Yield Fund,153,145,2026q2,False
+0000898745,S000024296,"Principal Funds, Inc",Diversified Income Fund,1436,1424,2026q2,False
+0000898745,S000028139,"Principal Funds, Inc",Diversified Real Asset Fund,922,909,2026q2,False
+0000898745,S000033960,"Principal Funds, Inc",Global Multi-Strategy Fund,93,93,2026q2,False
+0000904112,,MORGAN STANLEY EMERGING MARKETS DEBT FUND INC,MORGAN STANLEY EMERGING MARKETS DEBT FUND INC,53,53,2026q2,True
+0000906013,,AllianceBernstein Global High Income Fund Inc,AllianceBernstein Global High Income Fund Inc,213,171,2026q2,True
+0000906185,S000010394,JANUS ASPEN SERIES,Janus Henderson Balanced Portfolio,38,38,2026q2,True
+0000906185,S000010404,JANUS ASPEN SERIES,Janus Henderson Flexible Bond Portfolio,58,58,2026q2,True
+0000906352,S000035750,First Eagle Funds,First Eagle Global Income Builder Fund,4,4,2026q2,False
+0000908187,,"PCM Fund, Inc.",,166,120,2026q2,True
+0000908406,S000006580,American Century Investment Trust,High-Yield Fund,3,3,2025q3,False
+0000908406,S000006581,American Century Investment Trust,Short Duration Inflation Protection Bond Fund,3,3,2026q1,False
+0000908406,S000014385,American Century Investment Trust,Short Duration Fund,3,3,2026q1,True
+0000908406,S000046093,American Century Investment Trust,Short Duration Strategic Income Fund,9,9,2026q2,True
+0000908406,S000046094,American Century Investment Trust,Multisector Income Fund,7,7,2026q2,True
+0000908406,S000058290,American Century Investment Trust,High Income Fund,70,70,2026q2,True
+0000908695,S000012898,Victory Portfolios III,Victory High Income Fund,176,176,2026q2,False
+0000908695,S000012899,Victory Portfolios III,Victory Income Fund,1,1,2026q2,False
+0000908695,S000012902,Victory Portfolios III,Victory Core Plus Intermediate Bond Fund,203,203,2026q2,False
+0000908695,S000012913,Victory Portfolios III,Victory Short-Term Bond Fund,4,4,2026q2,False
+0000908695,S000030169,Victory Portfolios III,Victory Ultra Short-Term Bond Fund,10,10,2026q2,False
+0000909466,S000027866,AIM Tax-Exempt Funds (Invesco Tax-Exempt Funds),Invesco High Yield Municipal Fund,1,1,2025q3,False
+0000909466,S000064638,AIM Tax-Exempt Funds (Invesco Tax-Exempt Funds),Invesco Rochester Municipal Opportunities Fund,1,1,2025q3,False
+0000910068,,Western Asset High Income Opportunity Fund Inc.,Western Asset High Income Opportunity Fund Inc.,126,125,2026q2,True
+0000910682,S000003911,Delaware Group Adviser Funds,Nomura Diversified Income Fund,69,69,2026q2,False
+0000911507,S000007277,LORD ABBETT INVESTMENT TRUST,Lord Abbett Core Fixed Income Fund,26,26,2026q2,False
+0000911507,S000007278,LORD ABBETT INVESTMENT TRUST,Lord Abbett High Yield Fund,153,148,2026q2,False
+0000911507,S000007279,LORD ABBETT INVESTMENT TRUST,Lord Abbett Short Duration Income Fund,207,202,2026q2,False
+0000911507,S000007280,LORD ABBETT INVESTMENT TRUST,Lord Abbett Total Return Fund,66,66,2026q2,False
+0000911507,S000007281,LORD ABBETT INVESTMENT TRUST,Lord Abbett Income Fund,169,168,2026q2,False
+0000911507,S000019792,LORD ABBETT INVESTMENT TRUST,Lord Abbett Floating Rate Fund,1513,1508,2026q2,False
+0000911507,S000031962,LORD ABBETT INVESTMENT TRUST,Lord Abbett Inflation Focused Fund,76,73,2026q2,False
+0000911507,S000051773,LORD ABBETT INVESTMENT TRUST,Lord Abbett Core Plus Bond Fund,55,55,2026q2,False
+0000911507,S000055282,LORD ABBETT INVESTMENT TRUST,Lord Abbett Ultra Short Bond Fund,69,66,2026q2,False
+0000911507,S000056809,LORD ABBETT INVESTMENT TRUST,Lord Abbett Short Duration Core Bond Fund,55,54,2026q2,False
+0000914036,S000002812,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP Macquarie Bond Fund,12,12,2025q3,False
+0000914036,S000015976,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP Global Equity Managed Volatility Fund,14,14,2026q2,True
+0000914036,S000028581,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP Nomura Diversified Floating Rate Fund,130,130,2026q2,True
+0000914036,S000028582,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP JPMorgan High Yield Fund,278,253,2026q2,True
+0000914036,S000065355,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP BlackRock Global Allocation Fund,369,334,2026q2,True
+0000914036,S000070165,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP Fidelity Institutional AM(R) Total Bond Fund,1148,1146,2026q2,True
+0000914036,S000070166,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP Nomura High Yield Fund,77,77,2026q2,True
+0000914209,S000000778,Putnam Asset Allocation Funds,Putnam Dynamic Asset Allocation Balanced Fund,234,233,2026q2,True
+0000914209,S000000779,Putnam Asset Allocation Funds,Putnam Dynamic Asset Allocation Conservative Fund,233,232,2026q2,True
+0000914209,S000000780,Putnam Asset Allocation Funds,Putnam Dynamic Asset Allocation Growth Fund,235,234,2026q2,True
+0000914209,S000067964,Putnam Asset Allocation Funds,Putnam Multi-Asset Income Fund,130,130,2026q2,False
+0000914243,S000042224,Touchstone Funds Group Trust,Touchstone Funds Group Trust-Touchstone Ares Credit Opportunities Fund,137,137,2026q2,True
+0000914243,S000056167,Touchstone Funds Group Trust,Touchstone Funds Group Trust-Touchstone High Yield Fund,2,2,2026q2,True
+0000915802,S000062209,FINANCIAL INVESTORS TRUST,ALPS | Smith Short Duration Bond Fund,3,3,2026q2,False
+0000915802,S000062210,FINANCIAL INVESTORS TRUST,ALPS | Smith Total Return Bond Fund,13,13,2026q2,False
+0000915802,S000069461,FINANCIAL INVESTORS TRUST,ALPS | Smith Credit Opportunities Fund,20,20,2026q1,False
+0000915845,S000009981,AB HIGH INCOME FUND INC,AB HIGH INCOME FUND INC,210,170,2026q2,False
+0000916053,S000029393,MASSMUTUAL SELECT FUNDS,MassMutual Total Return Bond Fund,106,106,2025q3,False
+0000916053,S000061106,MASSMUTUAL SELECT FUNDS,MassMutual Select T. Rowe Price Bond Asset Fund,40,40,2025q3,False
+0000916183,,"PIMCO Strategic Income Fund, Inc.",,109,83,2026q2,True
+0000916620,S000026479,Northern Funds,Multi-Manager High Yield Opportunity Fund,478,470,2026q2,True
+0000917469,S000006638,LOOMIS SAYLES FUNDS I,Loomis Sayles Income Fund,135,135,2026q2,True
+0000917469,S000006639,LOOMIS SAYLES FUNDS I,Loomis Sayles Securitized Asset Fund,2,2,2025q4,False
+0000917469,S000006640,LOOMIS SAYLES FUNDS I,Loomis Sayles Fixed Income Fund,144,144,2026q2,True
+0000917469,S000006642,LOOMIS SAYLES FUNDS I,Loomis Sayles High Income Opportunities Fund,120,120,2026q2,True
+0000917469,S000006644,LOOMIS SAYLES FUNDS I,Loomis Sayles Institutional High Income Fund,116,116,2026q2,True
+0000917469,S000006646,LOOMIS SAYLES FUNDS I,Loomis Sayles Investment Grade Fixed Income Fund,115,115,2026q2,True
+0000918706,S000005247,Global Macro Portfolio,Global Macro Portfolio,40,40,2026q2,False
+0000921370,S000005235,High Income Opportunities Portfolio,HIGH INCOME OPPORTUNITIES PORTFOLIO,146,140,2026q2,False
+0000924727,S000009495,Investment Managers Series Trust III,FPA Crescent Fund,28,10,2026q2,True
+0000924727,S000064044,Investment Managers Series Trust III,FPA Flexible Fixed Income Fund,28,4,2026q2,True
+0000924727,S000080693,Investment Managers Series Trust III,FPA New Income Fund,24,0,2026q2,True
+0000925950,S000009229,American High-Income Municipal Bond Fund,American High-Income Municipal Bond Fund,4,0,2026q2,False
+0000927972,S000003779,MASSMUTUAL PREMIER FUNDS,MML Barings High Yield Fund,115,115,2026q2,True
+0000929523,S000004536,"Prudential Investment Portfolios, Inc. 17",PGIM Total Return Bond Fund,74,64,2026q2,False
+0000929523,S000043499,"Prudential Investment Portfolios, Inc. 17",PGIM Short Duration Multi-Sector Bond Fund,81,74,2026q2,False
+0000930007,S000002697,PACE SELECT ADVISORS TRUST,PACE Intermediate Fixed Income Investments,127,126,2026q2,False
+0000930007,S000002698,PACE SELECT ADVISORS TRUST,PACE Strategic Fixed Income Investments,129,128,2026q2,False
+0000930007,S000006015,PACE SELECT ADVISORS TRUST,PACE High Yield Investments,68,68,2026q2,False
+0000930667,S000036906,"iShares, Inc.",iShares US & Intl High Yield Corp Bond ETF,10,10,2026q2,False
+0000933188,S000022423,Senior Debt Portfolio,Senior Debt Portfolio,2078,2049,2026q2,False
+0000933691,S000001736,JNL Series Trust,JNL/DoubleLine Core Fixed Income Fund,1053,1043,2026q2,True
+0000933691,S000001740,JNL Series Trust,JNL/PPM America High Yield Bond Fund,122,118,2026q2,True
+0000933691,S000001741,JNL Series Trust,JNL/Fidelity Institutional Asset Management Total Bond Fund,2290,2185,2026q2,True
+0000933691,S000010705,JNL Series Trust,JNL/Franklin Templeton Income Fund,23,22,2026q2,True
+0000933691,S000029611,JNL Series Trust,JNL/BlackRock Global Allocation Fund,462,430,2026q2,True
+0000933691,S000030878,JNL Series Trust,JNL Multi-Manager Floating Rate Income Fund,2528,2475,2026q2,True
+0000933691,S000036382,JNL Series Trust,JNL/Neuberger Berman Strategic Income Fund,8,8,2026q2,True
+0000933691,S000044437,JNL Series Trust,JNL/T. Rowe Price Balanced Fund,24,24,2026q1,False
+0000933691,S000048717,JNL Series Trust,JNL Multi-Manager Alternative Fund,260,244,2026q2,True
+0000933691,S000048720,JNL Series Trust,JNL/Westchester Capital Event Driven Fund,12,12,2026q2,True
+0000933691,S000050455,JNL Series Trust,JNL/DoubleLine Shiller Enhanced CAPE Fund,150,146,2026q2,True
+0000933691,S000052994,JNL Series Trust,JNL/T. Rowe Price U.S. High Yield Fund,23,23,2026q1,False
+0000933691,S000052996,JNL Series Trust,JNL/PPM America Total Return Fund,62,62,2026q2,True
+0000933691,S000058490,JNL Series Trust,JNL/PIMCO Income Fund,90,51,2026q2,True
+0000933691,S000068109,JNL Series Trust,JNL/Lord Abbett Short Duration Income Fund,94,94,2026q2,True
+0000933691,S000068114,JNL Series Trust,JNL/PIMCO Investment Grade Credit Bond Fund,12,7,2026q2,True
+0000933691,S000068115,JNL Series Trust,JNL/T. Rowe Price Capital Appreciation Fund  ,169,169,2026q2,True
+0000935015,S000044335,Artisan Partners Funds Inc.,Artisan High Income Fund,256,256,2026q2,True
+0000935015,S000074472,Artisan Partners Funds Inc.,Artisan Floating Rate Fund,372,372,2026q2,True
+0000935015,S000075101,Artisan Partners Funds Inc.,Artisan Emerging Markets Debt Opportunities Fund,29,2,2026q2,True
+0000935015,S000075102,Artisan Partners Funds Inc.,Artisan Global Unconstrained Fund,29,2,2026q2,True
+0000939934,S000006763,SEI INSTITUTIONAL INVESTMENTS TRUST,SIIT HIGH YIELD BOND FUND,559,502,2026q2,False
+0000939934,S000006764,SEI INSTITUTIONAL INVESTMENTS TRUST,SIIT EMERGING MARKETS DEBT FUND,18,12,2026q2,False
+0000939934,S000014581,SEI INSTITUTIONAL INVESTMENTS TRUST,SIIT OPPORTUNISTIC INCOME FUND,1092,1061,2026q2,False
+0000945908,S000075296,Fidelity Covington Trust,Fidelity Sustainable High Yield ETF,230,213,2026q2,False
+0000946110,S000010522,CREDIT SUISSE OPPORTUNITY FUNDS,Credit Suisse Floating Rate High Income Fund,1620,1420,2026q2,False
+0000946110,S000038293,CREDIT SUISSE OPPORTUNITY FUNDS,Credit Suisse Strategic Income Fund,1157,1002,2026q2,False
+0000949512,S000004632,"Prudential Investment Portfolios, Inc.",PGIM Balanced Fund,10,10,2026q2,True
+0000949820,S000002128,"T. ROWE PRICE CORPORATE INCOME FUND, INC.","T. Rowe Price Corporate Income Fund, Inc.",2,2,2025q4,False
+0001003239,S000008040,SEASONS SERIES TRUST,SA Multi-Managed Diversified Fixed Income Portfolio,2,0,2025q4,True
+0001003239,S000008054,SEASONS SERIES TRUST,SA Franklin Allocation Moderately Aggressive Portfolio,125,125,2026q2,True
+0001005020,S000001336,Virtus Opportunities Trust,Virtus Newfleet Core Plus Bond Fund,287,281,2026q2,True
+0001005020,S000018005,Virtus Opportunities Trust,Virtus Newfleet High Yield Fund,10,6,2026q2,True
+0001005020,S000018007,Virtus Opportunities Trust,Virtus Newfleet Multi-Sector Intermediate Bond Fund,553,543,2026q2,True
+0001005020,S000018008,Virtus Opportunities Trust,Virtus Newfleet Multi-Sector Short Term Bond Fund,352,342,2026q2,True
+0001005020,S000020772,Virtus Opportunities Trust,Virtus Newfleet Senior Floating Rate Fund,973,963,2026q2,True
+0001005020,S000055179,Virtus Opportunities Trust,Virtus Newfleet Low Duration Core Plus Bond Fund,191,187,2026q2,True
+0001005942,S000000773,Putnam Funds Trust,Putnam Floating Rate Income Fund,868,868,2026q2,False
+0001006415,S000003571,"HARTFORD MUTUAL FUNDS, INC",Hartford Multi-Asset Income Fund,470,470,2026q2,False
+0001006415,S000003572,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD FLOATING RATE FUND,1135,1124,2026q2,False
+0001006415,S000003580,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD HIGH YIELD FUND,29,29,2026q2,False
+0001006415,S000003584,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD INFLATION PLUS FUND,249,249,2026q2,False
+0001006415,S000003596,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD SHORT DURATION FUND,989,989,2026q2,False
+0001006415,S000003605,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD TOTAL RETURN BOND FUND,2,2,2025q4,False
+0001006415,S000012949,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD BALANCED INCOME FUND,25,25,2026q2,False
+0001006415,S000017747,"HARTFORD MUTUAL FUNDS, INC",THE HARTFORD STRATEGIC INCOME FUND,1157,1146,2026q2,False
+0001006415,S000032811,"HARTFORD MUTUAL FUNDS, INC",The Hartford World Bond Fund,278,278,2026q2,False
+0001006415,S000034093,"HARTFORD MUTUAL FUNDS, INC",Hartford Low Duration High Income Fund,469,458,2026q2,False
+0001011378,S000004174,MORGAN STANLEY VARIABLE INSURANCE FUND INC.,Emerging Markets Debt Portfolio,49,49,2026q2,True
+0001016073,S000040177,Driehaus Mutual Funds,Driehaus Event Driven Fund,9,9,2026q1,False
+0001018593,S000057025,Virtus Asset Trust,Virtus Seix High Yield Fund,14,14,2026q2,True
+0001018593,S000057046,Virtus Asset Trust,Virtus Seix Floating Rate High Income Fund,1021,1000,2026q2,True
+0001018972,S000000550,Nuveen Multistate Trust I,Nuveen Pennsylvania Municipal Bond Fund,4,0,2026q2,False
+0001020425,S000057610,LITMAN GREGORY FUNDS TRUST,iMGP Low Duration Income Fund,806,806,2026q2,True
+0001020660,S000000285,Nuveen Municipal Trust,Nuveen Intermediate Duration Municipal Bond Fund,8,0,2026q2,True
+0001020660,S000000286,Nuveen Municipal Trust,Nuveen All-American Municipal Bond Fund,4,0,2026q2,True
+0001020660,S000000289,Nuveen Municipal Trust,Nuveen High Yield Municipal Bond Fund,11,0,2026q2,True
+0001020660,S000039680,Nuveen Municipal Trust,Nuveen Short Duration High Yield Municipal Bond Fund,12,0,2026q2,True
+0001020660,S000047609,Nuveen Municipal Trust,Nuveen Strategic Municipal Opportunities Fund,4,0,2026q2,True
+0001026977,S000039723,City National Rochdale Funds,CITY NATIONAL ROCHDALE FIXED INCOME OPPORTUNITIES FUND,1401,1395,2026q2,True
+0001027263,S000036793,EQ Advisors Trust,1290 VT High Yield Bond Portfolio,125,125,2026q2,True
+0001027596,S000038872,Advisors Series Trust,Shenkman Capital Short Duration High Income Fund,191,191,2026q2,True
+0001027596,S000046128,Advisors Series Trust,Shenkman Capital Floating Rate High Income Fund,1734,1733,2026q2,True
+0001028621,S000001146,TCW Metropolitan West Funds,TCW METWEST LOW DURATION BOND FUND,443,443,2026q2,True
+0001028621,S000001147,TCW Metropolitan West Funds,TCW METWEST TOTAL RETURN BOND FUND,509,509,2026q2,True
+0001028621,S000001149,TCW Metropolitan West Funds,TCW METWEST HIGH YIELD BOND FUND,209,205,2026q2,True
+0001028621,S000034126,TCW Metropolitan West Funds,TCW METWEST UNCONSTRAINED BOND FUND,530,530,2026q2,True
+0001031008,S000022554,AZZAD FUNDS,Wise Capital Fund,384,384,2026q1,False
+0001031661,S000001466,Third Avenue Trust,Third Avenue Real Estate Value Fund,4,0,2026q2,False
+0001034106,S000030275,Federated Hermes Core Trust,Bank Loan Core Fund,721,721,2026q2,True
+0001047304,S000009665,PIMCO Variable Insurance Trust,PIMCO Total Return Portfolio,49,8,2026q2,True
+0001047304,S000009668,PIMCO Variable Insurance Trust,PIMCO Emerging Markets Bond Portfolio,20,5,2026q2,True
+0001047304,S000009669,PIMCO Variable Insurance Trust,PIMCO International Bond Portfolio (U.S. Dollar-Hedged),6,6,2026q2,True
+0001047304,S000009671,PIMCO Variable Insurance Trust,PIMCO High Yield Portfolio,103,100,2026q2,True
+0001047304,S000010206,PIMCO Variable Insurance Trust,PIMCO International Bond Portfolio (Unhedged),2,2,2025q4,False
+0001047304,S000031689,PIMCO Variable Insurance Trust,PIMCO Dynamic Bond Portfolio,23,23,2026q2,True
+0001047304,S000052997,PIMCO Variable Insurance Trust,PIMCO Income Portfolio,66,35,2026q2,True
+0001048702,S000051210,Nationwide Mutual Funds,Nationwide Strategic Income Fund,28,28,2026q2,False
+0001051003,,"BlackRock Debt Strategies Fund, Inc.","BlackRock Debt Strategies Fund, Inc.",1728,1639,2026q2,True
+0001053425,S000003222,HARTFORD SERIES FUND INC,HARTFORD TOTAL RETURN BOND HLS FUND,3,3,2026q1,True
+0001057861,,BNY Mellon High Yield Strategies Fund,BNY Mellon High Yield Strategies Fund,126,126,2026q2,True
+0001058239,,Western Asset High Income Fund II Inc.,Western Asset High Income Fund II Inc.,180,177,2026q2,False
+0001059386,,Invesco Senior Income Trust,Invesco Senior Income Trust,1552,1061,2026q2,False
+0001061353,,CREDIT SUISSE HIGH YIELD CREDIT FUND,CREDIT SUISSE HIGH YIELD CREDIT FUND,271,231,2026q2,False
+0001064642,S000019669,SPDR SERIES TRUST,State Street(R) SPDR(R) Bloomberg High Yield Bond ETF,8,8,2026q2,True
+0001064642,S000036414,SPDR SERIES TRUST,State Street(R) SPDR Bloomberg Short Term High Yield Bond ETF,7,7,2026q2,True
+0001064642,S000036938,SPDR SERIES TRUST,State Street(R) SPDR(R) Portfolio High Yield Bond ETF,8,8,2026q2,True
+0001064642,S000095649,SPDR SERIES TRUST,State Street(R) SPDR(R) S&P(R) Leveraged Loan ETF,316,316,2026q2,True
+0001066602,S000008396,Voya Funds Trust,VOYA INTERMEDIATE BOND FUND,35,35,2026q2,True
+0001066602,S000029692,Voya Funds Trust,Voya Floating Rate Fund,5,5,2025q3,False
+0001066602,S000038555,Voya Funds Trust,VOYA STRATEGIC INCOME OPPORTUNITIES FUND,1535,1535,2026q2,True
+0001066602,S000079627,Voya Funds Trust,Voya VACS Series HYB Fund,20,20,2026q2,True
+0001066602,S000079681,Voya Funds Trust,Voya Short Duration High Income Fund,19,19,2026q2,True
+0001068204,S000005097,TIAA-CREF Life Funds,Nuveen Life Core Bond Fund,140,140,2026q2,True
+0001068663,S000053590,Victory Variable Insurance Funds,Victory High Yield VIP Series,23,23,2025q3,False
+0001070287,S000031707,Prudential Investment Portfolios 9,PGIM Absolute Return Bond Fund,68,66,2026q2,False
+0001070732,,Eaton Vance Senior Income Trust,Eaton Vance Senior Income Trust,1559,1537,2026q2,True
+0001071336,S000028810,Nuveen Investment Trust III,Nuveen High Yield Income Fund,124,124,2026q2,False
+0001071336,S000032446,Nuveen Investment Trust III,Nuveen Floating Rate Income Fund,1283,1267,2026q2,False
+0001081400,S000007418,ALLSPRING FUNDS TRUST,Allspring Core Plus Bond Fund,24,21,2026q2,False
+0001081400,S000007428,ALLSPRING FUNDS TRUST,Allspring Short-Term High Income Fund,66,66,2026q2,False
+0001081400,S000029101,ALLSPRING FUNDS TRUST,Allspring Diversified Income Builder Fund,88,83,2026q2,True
+0001081400,S000029107,ALLSPRING FUNDS TRUST,Allspring High Yield Bond Fund,88,82,2026q2,False
+0001081400,S000039677,ALLSPRING FUNDS TRUST,Allspring Income Plus Fund,35,35,2026q2,True
+0001081400,S000069934,ALLSPRING FUNDS TRUST,Allspring Managed Account CoreBuilder Shares Series CP,27,24,2026q2,False
+0001084380,S000005372,TIAA-CREF Funds,Nuveen Core Bond Fund,542,541,2026q2,True
+0001084380,S000012195,TIAA-CREF Funds,Nuveen Short Term Bond Fund,49,49,2026q2,True
+0001084380,S000012196,TIAA-CREF Funds,Nuveen High Yield Fund,71,69,2026q2,True
+0001084380,S000012198,TIAA-CREF Funds,Nuveen Core Plus Bond Fund,479,476,2026q2,True
+0001084380,S000038169,TIAA-CREF Funds,Nuveen Core Impact Bond Fund,18,14,2026q2,True
+0001084380,S000046660,TIAA-CREF Funds,Nuveen Emerging Markets Debt Fund,8,8,2026q2,True
+0001084380,S000054622,TIAA-CREF Funds,Nuveen International Bond Fund,95,95,2026q2,True
+0001084380,S000063522,TIAA-CREF Funds,Nuveen Green Bond Fund,14,14,2026q2,True
+0001084380,S000063523,TIAA-CREF Funds,Nuveen Short Duration Impact Bond Fund,10,10,2026q2,True
+0001087961,S000007549,ALLSPRING MASTER TRUST,Allspring Real Return Portfolio,30,30,2026q2,False
+0001090116,,Nuveen AMT-Free Municipal Credit Income Fund,Nuveen AMT-Free Municipal Credit Income Fund,4,0,2026q2,False
+0001091439,S000009963,Allianz Variable Insurance Products Trust,AZL T Rowe Price Capital Appreciation Fund,132,132,2026q2,True
+0001091439,S000025365,Allianz Variable Insurance Products Trust,AZL Fidelity Institutional Asset Management Multi-Strategy Fund,263,263,2026q2,True
+0001091439,S000037885,Allianz Variable Insurance Products Trust,AZL Fidelity Institutional Asset Management Total Bond Fund,250,250,2026q2,True
+0001097077,S000018499,"BlackRock Large Cap Series Funds, Inc.",BlackRock Event Driven Equity Fund,57,35,2026q2,False
+0001098605,S000004803,PIMCO Managed Accounts Trust,Fixed Income SHares: Series M,4,0,2026q2,True
+0001098605,S000004804,PIMCO Managed Accounts Trust,Fixed Income SHares: Series C,12,12,2026q2,True
+0001098605,S000037220,PIMCO Managed Accounts Trust,Fixed Income SHares: Series TE,3,0,2026q2,True
+0001100663,S000016772,iShares Trust,iShares iBoxx $ High Yield Corporate Bond ETF,12,12,2026q2,False
+0001100663,S000038926,iShares Trust,iShares Core 1-5 Year USD Bond ETF,12,12,2026q2,False
+0001100663,S000042353,iShares Trust,iShares 0-5 Year High Yield Corporate Bond ETF,14,14,2026q2,False
+0001100663,S000045644,iShares Trust,iShares Core Total USD Bond Market ETF,1,0,2026q2,False
+0001100663,S000059297,iShares Trust,iShares Broad USD High Yield Corporate Bond ETF,14,14,2026q2,False
+0001100663,S000065345,iShares Trust,iShares iBonds 2025 Term High Yield and Income ETF,4,4,2025q4,False
+0001100663,S000069852,iShares Trust,iShares iBonds 2026 Term High Yield and Income ETF,3,3,2026q1,False
+0001100663,S000097904,iShares Trust,iShares Total USD Fixed Income Market ETF,19,19,2026q2,False
+0001104631,S000050053,Prudential Investment Portfolios 3,PGIM Strategic Bond Fund,46,41,2026q2,False
+0001105076,S000030113,ARBITRAGE FUNDS,Water Island Event-Driven Fund,4,4,2026q2,False
+0001105076,S000039281,ARBITRAGE FUNDS,WATER ISLAND CREDIT OPPORTUNITIES FUND,12,12,2026q2,False
+0001109441,S000007441,Franklin Floating Rate Master Trust,Franklin Floating Rate Master Series,1017,1015,2026q2,False
+0001112996,S000011801,AIM Counselor Series Trust (Invesco Counselor Series Trust),Invesco Floating Rate ESG Fund,1672,1393,2026q2,False
+0001112996,S000025657,AIM Counselor Series Trust (Invesco Counselor Series Trust),Invesco Core Plus Bond Fund,48,42,2026q2,False
+0001112996,S000051015,AIM Counselor Series Trust (Invesco Counselor Series Trust),Invesco Short Duration High Yield Municipal Fund,1,1,2025q3,False
+0001112996,S000064615,AIM Counselor Series Trust (Invesco Counselor Series Trust),Invesco Senior Floating Rate Fund,1723,1471,2026q2,False
+0001116914,S000005230,Eaton Vance Floating Rate Portfolio/MA,Floating-Rate Portfolio,1928,1900,2026q2,False
+0001121746,S000005203,Eaton Vance Variable Trust,Eaton Vance VT Floating-Rate Income Fund,1712,1682,2026q2,True
+0001124959,,Voya Credit Income Fund,Voya Credit Income Fund,1202,1202,2026q2,False
+0001126087,S000011100,Brighthouse Funds Trust I,PIMCO Total Return Portfolio,8,4,2026q2,True
+0001126087,S000011123,Brighthouse Funds Trust I,BlackRock High Yield Portfolio,477,477,2026q2,True
+0001126087,S000011124,Brighthouse Funds Trust I,Loomis Sayles Global Allocation Portfolio,147,147,2026q2,True
+0001126087,S000028757,Brighthouse Funds Trust I,Brighthouse/Eaton Vance Floating Rate Portfolio,1673,1639,2026q2,True
+0001126087,S000032438,Brighthouse Funds Trust I,Brighthouse/Franklin Low Duration Total Return Portfolio,450,449,2026q2,True
+0001131013,S000001154,GuideStone Funds,LOW-DURATION BOND FUND,2,2,2026q2,True
+0001131013,S000001155,GuideStone Funds,MEDIUM-DURATION BOND FUND,242,230,2026q2,True
+0001131013,S000014481,GuideStone Funds,Global Bond Fund,88,87,2026q2,True
+0001135300,S000022451,Buffalo Funds,Buffalo High Yield Fund,141,141,2026q2,True
+0001137887,,Nuveen Municipal Credit Income Fund,Nuveen Municipal Credit Income Fund,4,0,2026q2,False
+0001139819,S000068467,LORD ABBETT TRUST I,Lord Abbett Short Duration High Yield Fund,287,276,2026q2,False
+0001139819,S000080204,LORD ABBETT TRUST I,Lord Abbett Investment Grade Floating Rate Fund,227,225,2026q2,False
+0001141819,S000060190,Trust for Professional Managers,CrossingBridge Low Duration High Income Fund,58,46,2026q2,True
+0001141819,S000071657,Trust for Professional Managers,CrossingBridge Ultra-Short Duration Fund,20,18,2026q2,True
+0001141819,S000071658,Trust for Professional Managers,CrossingBridge Responsible Credit Fund,47,30,2026q2,True
+0001141819,S000080182,Trust for Professional Managers,RiverPark Strategic Income Fund,88,69,2026q2,True
+0001141819,S000088023,Trust for Professional Managers,CrossingBridge Nordic High Income Bond Fund,4,0,2026q2,True
+0001145022,S000006216,HOTCHKIS & WILEY FUNDS/DE/,Hotchkis and Wiley Value Opportunities Fund,12,10,2026q2,True
+0001145022,S000025241,HOTCHKIS & WILEY FUNDS/DE/,Hotchkis and Wiley High Yield Fund,69,67,2026q2,True
+0001160864,,BlackRock Core Bond Trust,BlackRock Core Bond Trust,450,422,2026q2,True
+0001160990,,PIMCO Corporate & Income Strategy Fund,,302,209,2026q2,True
+0001163792,,Western Asset Premier Bond Fund,Western Asset Premier Bond Fund,70,69,2026q2,True
+0001166258,,"Pioneer High Income Fund, Inc.","Pioneer High Income Fund, Inc.",7,7,2025q3,False
+0001169187,S000002134,"T. ROWE PRICE INSTITUTIONAL INCOME FUNDS, INC.",T. Rowe Price Institutional High Yield Fund,64,60,2026q2,False
+0001169187,S000020717,"T. ROWE PRICE INSTITUTIONAL INCOME FUNDS, INC.",T. Rowe Price Institutional Floating Rate Fund,1072,1007,2026q2,False
+0001170299,,PIMCO Municipal Income Fund II,,17,0,2026q2,True
+0001170311,,PIMCO New York Municipal Income Fund II,,1,0,2026q2,True
+0001171471,,CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND,CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND,286,286,2026q2,False
+0001174520,S000031914,Pioneer Series Trust X,Pioneer Active Credit Fund,2,2,2025q3,False
+0001181506,,PIMCO Municipal Income Fund III,,1,0,2025q3,False
+0001190935,,PIMCO Corporate & Income Opportunity Fund,,335,239,2026q2,True
+0001199046,S000075566,Unified Series Trust,ONEASCENT CORE PLUS BOND ETF,15,15,2026q2,False
+0001208133,S000005160,Merger Fund VL,The Merger Fund VL,15,15,2026q2,True
+0001210123,,ALLSPRING INCOME OPPORTUNITIES FUND,ALLSPRING INCOME OPPORTUNITIES FUND,87,83,2026q2,False
+0001217286,S000002766,JPMorgan Trust I,JPMorgan Diversified Fund,12,0,2026q2,True
+0001217286,S000015698,JPMorgan Trust I,JPMorgan Income Builder Fund,810,779,2026q2,False
+0001217286,S000022843,JPMorgan Trust I,JPMorgan Total Return Fund,1,1,2025q3,False
+0001217286,S000022994,JPMorgan Trust I,JPMorgan Strategic Income Opportunities Fund,355,326,2026q2,False
+0001217286,S000030249,JPMorgan Trust I,JPMorgan Unconstrained Debt Fund,93,91,2025q4,False
+0001217286,S000031462,JPMorgan Trust I,JPMorgan Global Allocation Fund,16,0,2026q2,False
+0001217286,S000032548,JPMorgan Trust I,JPMorgan Floating Rate Income Fund,743,714,2026q2,False
+0001217286,S000037860,JPMorgan Trust I,JPMorgan Global Bond Opportunities Fund,260,232,2026q2,False
+0001217286,S000039803,JPMorgan Trust I,JPMorgan Corporate Bond Fund,17,17,2026q2,False
+0001217286,S000039927,JPMorgan Trust I,JPMorgan Short Duration Core Plus Fund,68,68,2026q2,False
+0001217286,S000044081,JPMorgan Trust I,JPMorgan Income Fund,235,207,2026q2,False
+0001219120,,ADVENT CONVERTIBLE & INCOME FUND,Advent Convertible & Income Fund,25,25,2026q2,False
+0001219360,,PIMCO High Income Fund,,141,102,2026q2,True
+0001221845,S000047014,BlackRock Allocation Target Shares,BATS: Securitized Total Return Series,18,0,2026q2,True
+0001222401,,"BlackRock Corporate High Yield Fund, Inc.","BlackRock Corporate High Yield Fund, Inc.",459,430,2026q2,True
+0001222719,,CALAMOS CONVERTIBLE & HIGH INCOME FUND,CALAMOS CONVERTIBLE & HIGH INCOME FUND,286,286,2026q2,False
+0001222922,,Eaton Vance Ltd Duration Income Fund,Eaton Vance Ltd Duration Income Fund,1976,1947,2026q2,True
+0001227073,,ALLSPRING MULTI-SECTOR INCOME FUND,ALLSPRING MULTI-SECTOR INCOME FUND,257,240,2026q2,False
+0001227476,,Nuveen Credit Strategies Income Fund,Nuveen Credit Strategies Income Fund,1359,1350,2026q2,False
+0001227523,S000002420,Optimum Fund Trust,Optimum Fixed Income Fund,103,103,2026q2,True
+0001227862,,Western Asset Emerging Markets Debt Fund Inc.,Western Asset Emerging Markets Debt Fund Inc.,1,1,2025q3,False
+0001228509,,Western Asset Global High Income Fund Inc.,Western Asset Global High Income Fund Inc.,133,133,2026q2,False
+0001233087,,Franklin Limited Duration Income Trust,Franklin Limited Duration Income Trust,34536,875,2026q2,True
+0001233681,,BlackRock Ltd Duration Income Trust,BlackRock Ltd Duration Income Trust,1737,1647,2026q2,True
+0001244183,,PIMCO Income Strategy Fund,,287,218,2026q2,True
+0001254370,,Western Asset Inflation-Linked Income Fund,Western Asset Inflation-Linked Income Fund,16,16,2026q2,False
+0001257927,S000046118,Weitz Funds,Core Plus Income Fund,10,10,2026q2,True
+0001258623,,Eaton Vance Senior Floating-Rate Trust,Eaton Vance Senior Floating-Rate Trust,1737,1713,2026q2,False
+0001259708,,"BlackRock Floating Rate Income Strategies Fund, Inc.","BlackRock Floating Rate Income Strategies Fund, Inc.",1706,1617,2026q2,True
+0001266585,,Nuveen Municipal High Income Opportunity Fund,Nuveen Municipal High Income Opportunity Fund,7,0,2026q2,False
+0001267902,,Western Asset Inflation-Linked Opportunities & Income Fund,Western Asset Inflation-Linked Opportunities & Income Fund,16,16,2026q2,False
+0001272950,S000074159,RBC Funds Trust,RBC BlueBay Core Plus Bond Fund,42,42,2026q2,True
+0001272950,S000074160,RBC Funds Trust,RBC BlueBay Strategic Income Fund,42,42,2026q2,True
+0001275214,,CALAMOS STRATEGIC TOTAL RETURN FUND,CALAMOS STRATEGIC TOTAL RETURN FUND,393,393,2026q2,False
+0001276533,,Nuveen Floating Rate Income Fund,Nuveen Floating Rate Income Fund,1495,1478,2026q2,False
+0001279014,,ALLSPRING UTILITIES & HIGH INCOME FUND,ALLSPRING UTILITIES & HIGH INCOME FUND,88,82,2026q2,False
+0001282850,,First Trust Senior Floating Rate Income Fund II,First Trust Senior Floating Rate Income Fund II,877,877,2026q2,False
+0001285650,,CALAMOS GLOBAL TOTAL RETURN FUND,CALAMOS GLOBAL TOTAL RETURN FUND,150,150,2026q2,False
+0001287480,,BlackRock Floating Rate Income Trust,BlackRock Floating Rate Income Trust,1730,1641,2026q2,True
+0001287498,,Eaton Vance Short Duration Diversified Income Fund,Eaton Vance Short Duration Diversified Income Fund,905,887,2026q2,False
+0001288992,,Eaton Vance Floating-Rate Income Trust,Eaton Vance Floating-Rate Income Trust,1731,1709,2026q2,False
+0001296250,,PIMCO Income Strategy Fund II,,297,199,2026q2,True
+0001300746,S000000841,Intrepid Capital Management Funds Trust,Intrepid Capital Fund,14,14,2026q2,True
+0001300746,S000017981,Intrepid Capital Management Funds Trust,Intrepid Income Fund,44,42,2026q2,True
+0001303459,S000008404,Fidelity Central Investment Portfolios LLC,Fidelity Floating Rate Central Fund,1918,1836,2026q2,True
+0001303459,S000008406,Fidelity Central Investment Portfolios LLC,Fidelity Specialized High Income Central Fund,105,105,2026q2,False
+0001303459,S000022433,Fidelity Central Investment Portfolios LLC,Fidelity High Income Central Fund,255,219,2026q2,False
+0001303608,S000007337,JPMorgan Institutional Trust,JPMorgan Core Bond Trust,4,4,2026q2,False
+0001305767,,"Pioneer Floating Rate Fund, Inc.","Pioneer Floating Rate Fund, Inc.",232,232,2025q4,False
+0001317474,S000035446,NEUBERGER BERMAN ALTERNATIVE FUNDS,Neuberger Long Short Fund,14,6,2026q2,False
+0001318025,,PIMCO Global StocksPLUS & Income Fund,,191,112,2026q2,True
+0001318342,S000044040,INVESTMENT MANAGERS SERIES TRUST,Palmer Square Income Plus Fund,77,77,2025q4,False
+0001318342,S000045893,INVESTMENT MANAGERS SERIES TRUST,AAM HIMCO Short Duration Income Fund,67,67,2026q2,True
+0001318342,S000050277,INVESTMENT MANAGERS SERIES TRUST,Palmer Square Ultra-Short Duration Investment Grade Fund,8,8,2025q4,False
+0001320375,,BlackRock Enhanced Global Dividend Trust,BlackRock Enhanced Global Dividend Trust,8,0,2026q2,True
+0001320615,S000041478,Mercer Funds,Mercer Opportunistic Fixed Income Fund,1331,1327,2026q2,True
+0001320615,S000082908,Mercer Funds,Mercer Short Duration Fixed Income Fund,67,67,2026q2,True
+0001331971,S000003319,John Hancock Funds II,Opportunistic Fixed Income Fund,123,123,2026q2,False
+0001331971,S000009820,John Hancock Funds II,Strategic Income Opportunities Fund,155,155,2026q2,False
+0001331971,S000020234,John Hancock Funds II,Floating Rate Income Fund,1357,1330,2026q2,False
+0001331971,S000030799,John Hancock Funds II,Capital Appreciation Value Fund,132,132,2026q2,False
+0001331971,S000045160,John Hancock Funds II,Multi-Asset High Income Fund,51,51,2026q2,False
+0001342947,S000015110,BBH Trust,BBH Limited Duration Fund,126,120,2026q2,False
+0001342947,S000062218,BBH Trust,BBH Income Fund,186,183,2026q2,False
+0001352280,S000031341,Columbia Funds Series Trust II,Columbia Floating Rate Fund,1307,1282,2026q2,False
+0001352280,S000031346,Columbia Funds Series Trust II,Columbia High Yield Bond Fund,39,38,2026q2,False
+0001352280,S000031352,Columbia Funds Series Trust II,Columbia Income Opportunities Fund,31,31,2026q2,False
+0001354917,S000021242,NexPoint Funds I,NexPoint Event Driven Fund,9,9,2026q1,False
+0001354917,S000054634,NexPoint Funds I,Nexpoint Merger Arbitrage Fund,12,12,2026q2,True
+0001354917,S000093541,NexPoint Funds I,Nexpoint Credit Catalyst Fund,23,23,2026q2,True
+0001355064,S000039512,MUTUAL FUND SERIES TRUST,Catalyst/CIFC Senior Secured Income Fund,1109,1109,2026q2,True
+0001355064,S000071674,MUTUAL FUND SERIES TRUST,AlphaCentric Real Income Fund,5,5,2026q2,True
+0001364924,S000029150,Fidelity Rutland Square Trust II,Strategic Advisers Core Income Fund,598,584,2026q2,False
+0001364924,S000029151,Fidelity Rutland Square Trust II,Strategic Advisers Income Opportunities Fund,498,468,2026q2,False
+0001364924,S000062265,Fidelity Rutland Square Trust II,Strategic Advisers Fidelity Core Income Fund,184,181,2026q2,False
+0001370177,S000030798,RIVERNORTH FUNDS,RiverNorth/DoubleLine Strategic Income Fund,200,200,2026q1,False
+0001370177,S000039038,RIVERNORTH FUNDS,RiverNorth/Oaktree High Income Fund,20,20,2026q1,False
+0001378872,S000031053,Invesco Exchange-Traded Fund Trust II,Invesco Senior Loan ETF,515,512,2026q2,False
+0001379384,,BlackRock Credit Allocation Income Trust,BlackRock Credit Allocation Income Trust,1698,1621,2026q2,True
+0001380786,S000027100,Nuveen Investment Trust V,Nuveen Flexible Income Fund,2,2,2026q1,False
+0001380936,,Guggenheim Strategic Opportunities Fund,Guggenheim Strategic Opportunities Fund,1301,1006,2026q2,False
+0001386067,,ALLSPRING GLOBAL DIVIDEND OPPORTUNITY FUND,ALLSPRING GLOBAL DIVIDEND OPPORTUNITY FUND,87,83,2026q2,False
+0001388126,,"Pioneer Diversified High Income Fund, Inc.","Pioneer Diversified High Income Fund, Inc.",17,17,2025q3,False
+0001388485,S000080672,FundVantage Trust,Polen Opportunistic High Yield Fund,106,101,2026q2,False
+0001388485,S000090826,FundVantage Trust,Polen Floating Rate Income ETF,441,441,2026q2,False
+0001388485,S000090827,FundVantage Trust,Polen High Income ETF,93,93,2026q2,False
+0001396277,,Calamos Global Dynamic Income Fund,Calamos Global Dynamic Income Fund,286,286,2026q2,False
+0001398078,S000018357,BlackRock Funds II,BlackRock Managed Income Fund,1699,1618,2026q2,True
+0001398078,S000020792,BlackRock Funds II,BlackRock Multi-Asset Income Portfolio,2186,2038,2026q2,False
+0001398078,S000047012,BlackRock Funds II,BlackRock Dynamic High Income Portfolio,2135,2036,2026q2,False
+0001411674,S000023593,Federated Hermes Core Trust III,Project and Trade Finance Core Fund,473,6,2026q2,True
+0001413032,S000019838,Columbia Funds Variable Series Trust II,Columbia Variable Portfolio - Balanced Fund,21,20,2026q2,False
+0001413032,S000019841,Columbia Funds Variable Series Trust II,Columbia Variable Portfolio - High Yield Bond Fund,36,35,2026q2,True
+0001413032,S000019842,Columbia Funds Variable Series Trust II,Columbia Variable Portfolio - Income Opportunities Fund,33,33,2026q2,True
+0001413032,S000019856,Columbia Funds Variable Series Trust II,Columbia Variable Portfolio - Intermediate Bond Fund,1046,1034,2026q2,True
+0001413032,S000028698,Columbia Funds Variable Series Trust II,CTIVP - TCW Core Plus Bond Fund,432,406,2026q2,True
+0001413594,S000072755,abrdn Funds,abrdn High Income Opportunities Fund,4,4,2026q2,False
+0001414040,S000082009,ALPS ETF TRUST,ALPS | Smith Core Plus Bond ETF,13,13,2026q2,False
+0001418144,S000060784,Invesco Actively Managed Exchange-Traded Fund Trust,Invesco Total Return Bond ETF,20,19,2026q2,False
+0001418144,S000078942,Invesco Actively Managed Exchange-Traded Fund Trust,Invesco Short Duration High Yield ETF,6,5,2026q2,False
+0001418144,S000078944,Invesco Actively Managed Exchange-Traded Fund Trust,Invesco Short Duration Total Return Bond ETF,1,0,2026q2,False
+0001418144,S000093681,Invesco Actively Managed Exchange-Traded Fund Trust,Invesco Core Fixed Income ETF,1,0,2026q2,False
+0001420040,S000020976,Dunham Funds,Dunham Corporate/Government Bond Fund,309,309,2026q2,False
+0001420040,S000042248,Dunham Funds,Dunham Floating Rate Bond Fund,826,826,2026q2,False
+0001423227,S000033713,Virtus Strategy Trust,Virtus Newfleet Short Duration High Income Fund,76,72,2026q2,True
+0001426439,S000071156,New York Life Investments Active ETF Trust,NYLI MacKay Core Plus Bond ETF,74,74,2026q2,False
+0001426439,S000077600,New York Life Investments Active ETF Trust,NYLI MacKay High Income ETF,66,66,2026q2,False
+0001447247,,"Partners Group Private Equity Fund, LLC","Partners Group Private Equity Fund, LLC",1212,0,2026q2,True
+0001447346,S000024524,"T. ROWE PRICE GLOBAL MULTI-SECTOR BOND FUND, INC.","T. Rowe Price Global Multi-Sector Bond Fund, Inc.",50,46,2026q2,False
+0001450011,S000028996,PIMCO ETF Trust,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,74,59,2026q2,True
+0001450011,S000033233,PIMCO ETF Trust,PIMCO Active Bond Exchange-Traded Fund,23,16,2026q2,True
+0001450011,S000046484,PIMCO ETF Trust,PIMCO Senior Loan Active Exchange-Traded Fund,1095,1042,2026q2,True
+0001450011,S000080425,PIMCO ETF Trust,PIMCO Multisector Bond Active Exchange-Traded Fund,279,210,2026q2,True
+0001462586,,Western Asset Investment Grade Opportunity Trust Inc.,Western Asset Investment Grade Opportunity Trust Inc.,13,13,2026q2,False
+0001469192,S000028529,NEW YORK LIFE INVESTMENTS FUNDS TRUST,NYLI Floating Rate Fund,1553,1551,2026q2,False
+0001469192,S000028537,NEW YORK LIFE INVESTMENTS FUNDS TRUST,NYLI MacKay Total Return Bond Fund,19,19,2026q2,False
+0001469192,S000039301,NEW YORK LIFE INVESTMENTS FUNDS TRUST,NYLI MacKay Short Duration High Income Fund,313,301,2026q2,False
+0001472341,,Western Asset Global Corporate Opportunity Fund Inc.,Western Asset Global Corporate Opportunity Fund Inc.,68,66,2026q2,False
+0001474103,S000031479,Legg Mason Global Asset Management Trust,BrandywineGLOBAL - Multi-Sector Opportunities Fund,3,3,2026q2,False
+0001474103,S000053934,Legg Mason Global Asset Management Trust,BrandywineGLOBAL - Flexible Bond Fund,15,15,2026q2,True
+0001475712,S000027417,Global Opportunities Portfolio,Global Opportunities Portfolio,77,71,2026q2,False
+0001478102,,Western Asset Mortgage Opportunity Fund Inc.,Western Asset Mortgage Opportunity Fund Inc.,8,4,2026q2,True
+0001478482,S000094320,John Hancock Exchange-Traded Fund Trust,John Hancock Global Senior Loan ETF,784,784,2026q2,True
+0001479360,S000034646,PIMCO Equity Series,PIMCO Dividend and Income Fund,48,17,2026q2,True
+0001480207,S000028164,DoubleLine Funds Trust,DoubleLine Core Fixed Income Fund,1079,1075,2026q2,True
+0001480207,S000039682,DoubleLine Funds Trust,DoubleLine Floating Rate Fund,769,765,2026q1,False
+0001480207,S000042768,DoubleLine Funds Trust,Doubleline Shiller Enhanced CAPE,149,145,2026q2,True
+0001480207,S000044832,DoubleLine Funds Trust,DoubleLine Flexible Income Fund,1150,1146,2026q2,True
+0001485894,S000063265,J.P. Morgan Exchange-Traded Fund Trust,JPMorgan Core Plus Bond ETF,222,222,2026q2,False
+0001485894,S000072932,J.P. Morgan Exchange-Traded Fund Trust,JPMorgan Income ETF,171,171,2026q2,False
+0001485894,S000092100,J.P. Morgan Exchange-Traded Fund Trust,JPMorgan Flexible Debt ETF,94,92,2026q2,False
+0001486298,,Blackstone Senior Floating Rate 2027 Term Fund,Blackstone Senior Floating Rate 2027 Term Fund,1421,1372,2026q2,True
+0001487610,,Neuberger High Yield Strategies Fund Inc.,Neuberger High Yield Strategies Fund Inc.,44,43,2026q2,False
+0001493214,S000029761,Global Macro Absolute Return Advantage Portfolio,Global Macro Absolute Return Advantage Portfolio,42,42,2026q2,False
+0001494928,S000030034,RiverPark Funds Trust,RIVERPARK SHORT TERM HIGH YIELD FUND,13,13,2026q2,True
+0001495825,,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,252,132,2026q2,False
+0001496608,S000079881,"AB Active ETFs, Inc.",AB High Yield ETF,161,130,2026q2,False
+0001496608,S000083864,"AB Active ETFs, Inc.",AB Short Duration High Yield ETF,130,110,2026q2,False
+0001496608,S000083865,"AB Active ETFs, Inc.",AB Short Duration Income ETF,27,21,2026q2,False
+0001496749,,John Hancock Diversified Income Fund,John Hancock Diversified Income Fund,20,20,2026q2,True
+0001497186,,Western Asset High Yield Opportunity Fund Inc.,Western Asset High Yield Opportunity Fund Inc.,85,85,2026q2,False
+0001497778,S000038285,First Trust Series Fund,First Trust Short Duration High Income Fund,353,353,2026q2,False
+0001498498,S000030386,Ashmore Funds,Ashmore Emerging Markets Corporate Income Fund,4,0,2026q2,False
+0001500604,S000073434,Janus Detroit Street Trust,Janus Henderson Corporate Bond ETF,4,4,2025q4,False
+0001500604,S000088762,Janus Detroit Street Trust,Janus Henderson Income ETF,237,237,2026q2,False
+0001501825,S000073404,Hartford Funds Exchange-Traded Trust,Hartford Strategic Income ETF,482,482,2026q2,False
+0001503123,S000044475,DBX ETF Trust,Xtrackers USD High Yield Corporate Bond ETF,1,1,2025q4,False
+0001503290,,abrdn Income Credit Strategies Fund,abrdn Income Credit Strategies Fund,10,10,2026q2,False
+0001504234,,Blackstone Long-Short Credit Income Fund,Blackstone Long-Short Credit Income Fund,1281,1235,2026q2,True
+0001504545,,BrandywineGLOBAL-Global Income Opportunities Fund Inc,BrandywineGLOBAL-Global Income Opportunities Fund Inc,9,8,2026q2,False
+0001506001,S000084439,Neuberger Berman ETF Trust,Neuberger Short Duration Income ETF,116,113,2026q2,False
+0001506001,S000085536,Neuberger Berman ETF Trust,Neuberger Flexible Credit Income ETF,75,68,2026q2,False
+0001506289,,BlackRock Resources & Commodities Strategy Trust,BlackRock Resources & Commodities Strategy Trust,8,0,2026q2,True
+0001510599,,PIMCO Dynamic Income Fund,,377,223,2026q2,True
+0001515324,,"Ares Dynamic Credit Allocation Fund, Inc.","Ares Dynamic Credit Allocation Fund, Inc.",358,332,2026q2,True
+0001515940,,KKR Income Opportunities Fund,KKR Income Opportunities Fund,493,431,2026q2,False
+0001516212,S000033064,SSGA Active Trust,State Street(R) Blackstone Senior Loan ETF,1626,1626,2026q2,True
+0001516212,S000046314,SSGA Active Trust,State Street(R) DoubleLine(R) Total Return Tactical ETF,963,960,2026q2,True
+0001516212,S000052162,SSGA Active Trust,State Street(R) DoubleLine(R) Short Duration Total Return Tactical ETF,151,151,2026q2,True
+0001516212,S000072972,SSGA Active Trust,State Street(R) Loomis Sayles Opportunistic Bond ETF,310,310,2026q2,True
+0001516212,S000075269,SSGA Active Trust,State Street(R) Blackstone High Income ETF,1248,1248,2026q2,True
+0001516523,S000048359,Advisers Investment Trust,River Canyon Total Return Bond Fund,76,72,2026q2,True
+0001517936,S000034146,First Trust Exchange-Traded Fund IV,First Trust Senior Loan Fund,1107,1107,2026q2,False
+0001517936,S000039493,First Trust Exchange-Traded Fund IV,First Trust Tactical High Yield ETF,237,237,2026q2,False
+0001517936,S000072703,First Trust Exchange-Traded Fund IV,First Trust Limited Duration Investment Grade Corporate ETF,12,12,2026q2,False
+0001520245,S000033565,"T. ROWE PRICE FLOATING RATE FUND, INC.",T. Rowe Price Floating Rate Fund,1060,994,2026q2,False
+0001521404,,Barings Global Short Duration High Yield Fund,Barings Global Short Duration High Yield Fund,162,149,2026q2,True
+0001524513,S000037042,iShares U.S. ETF Trust,iShares Short Duration Bond Active ETF,1,1,2026q2,False
+0001525201,,DoubleLine Opportunistic Credit Fund,DoubleLine Opportunistic Credit Fund,390,386,2026q2,True
+0001528811,,Virtus Global Multi-Sector Income Fund,Virtus Global Multi-Sector Income Fund,417,406,2026q2,False
+0001532203,S000063385,VANGUARD CHARLOTTE FUNDS,VANGUARD GLOBAL CREDIT BOND FUND,28,28,2026q2,False
+0001534880,,"PGIM High Yield Bond Fund, Inc.","PGIM High Yield Bond Fund, Inc.",208,186,2026q2,False
+0001535538,S000042023,Franklin Alternative Strategies Funds,Franklin Alternative Strategies Fund,259,235,2026q2,False
+0001537140,S000054112,NORTHERN LIGHTS FUND TRUST III,Boyd Watterson Limited Duration Enhanced Income Fund,43,43,2026q2,True
+0001539337,,Nuveen Real Asset Income and Growth Fund,Nuveen Real Asset Income and Growth Fund,78,77,2026q2,True
+0001546429,,Blackstone Strategic Credit 2027 Term Fund,Blackstone Strategic Credit 2027 Term Fund,1299,1255,2026q2,True
+0001547580,S000065159,Victory Portfolios II,VictoryShares Short-Term Bond ETF,5,5,2026q1,True
+0001547580,S000073698,Victory Portfolios II,VictoryShares Core Plus Bond ETF,182,182,2026q2,True
+0001551950,S000086826,Columbia ETF Trust I,Columbia Short Duration High Yield ETF,6,6,2026q2,True
+0001552324,S000038184,"Eaton Vance Series Fund, Inc.",Eaton Vance Emerging Markets Debt Opportunities Fund,78,78,2026q2,False
+0001552947,S000040050,Two Roads Shared Trust,Anfield Universal Fixed Income Fund,51,51,2026q2,False
+0001552947,S000054226,Two Roads Shared Trust,Holbrook Income Fund,3,3,2026q2,False
+0001552947,S000062994,Two Roads Shared Trust,Anfield Universal Fixed Income ETF,54,54,2026q2,False
+0001554697,,"PGIM Global High Yield Fund, Inc.","PGIM Global High Yield Fund, Inc.",134,115,2026q2,False
+0001557156,S000048067,Goldman Sachs Trust II,Goldman Sachs Multi-Manager Non-Core Fixed Income Fund,1647,1589,2026q2,False
+0001557156,S000094308,Goldman Sachs Trust II,Multi-Manager High Yield Bond Fund,129,127,2026q2,False
+0001557794,S000045538,Blackstone Alternative Investment Funds,Blackstone Alternative Multi-Strategy Fund,251,195,2026q2,True
+0001558107,S000079888,ALPS SERIES TRUST,Brigade High Income Fund,500,472,2026q2,True
+0001559109,S000048895,ETFis Series Trust I,Virtus Newfleet Multi-Sector Bond ETF,648,634,2026q2,False
+0001559992,S000068675,Stone Ridge Trust,Stone Ridge Diversified Alternatives Fund,32837,0,2026q2,False
+0001560672,,Ellington Credit Co,Ellington Credit Co,36,0,2026q2,True
+0001562565,S000042567,Fidelity Merrimack Street Trust,Fidelity Total Bond ETF,1939,1871,2026q2,False
+0001562565,S000042569,Fidelity Merrimack Street Trust,Fidelity Limited Term Bond ETF,354,343,2026q2,False
+0001562565,S000075900,Fidelity Merrimack Street Trust,Fidelity Sustainable Core Plus Bond ETF,104,104,2025q4,False
+0001562565,S000079047,Fidelity Merrimack Street Trust,Fidelity Tactical Bond ETF,279,260,2026q2,False
+0001562818,,BlackRock Multi-Sector Income Trust,BlackRock Multi-Sector Income Trust,450,421,2026q2,True
+0001566388,,DoubleLine Income Solutions Fund,DoubleLine Income Solutions Fund,340,336,2026q2,True
+0001567101,S000049701,Bridge Builder Trust,Bridge Builder Core Plus Bond Fund,603,557,2026q2,True
+0001568194,,FS Credit Opportunities Corp.,FS Credit Opportunities Corp.,429,212,2026q2,True
+0001572617,S000040968,Virtus Event Opportunities Trust,Virtus Westchester Event-Driven Fund,14,14,2026q2,True
+0001572617,S000059351,Virtus Event Opportunities Trust,Virtus Westchester Credit Event Fund,15,15,2026q2,True
+0001572661,S000049047,Principal Exchange-Traded Funds,Principal Active High Yield ETF,46,46,2026q2,True
+0001582138,,Equalize Community Development Fund,Equalize Community Development Fund,108,0,2026q2,True
+0001587982,S000077098,INVESTMENT MANAGERS SERIES TRUST II,Arena Strategic Income Fund,146,129,2026q2,False
+0001593547,S000061933,ADVISORS' INNER CIRCLE III,Penn Mutual AM Strategic Income Fund,2,2,2025q3,False
+0001593547,S000063586,ADVISORS' INNER CIRCLE III,MetLife Opportunistic High Yield Fund,117,117,2026q2,True
+0001600600,S000045403,"T. ROWE PRICE CREDIT OPPORTUNITIES FUND, INC.","T. Rowe Price Credit Opportunities Fund, Inc.",129,122,2026q2,False
+0001601445,S000045496,Guggenheim Strategy Funds Trust,Guggenheim Strategy Fund II,12,12,2026q2,False
+0001601445,S000045497,Guggenheim Strategy Funds Trust,Guggenheim Strategy Fund III,25,25,2026q2,True
+0001601445,S000045498,Guggenheim Strategy Funds Trust,Guggenheim Variable Insurance Strategy Fund III,9,9,2026q2,False
+0001602584,,Calamos Dynamic Convertible & Income Fund,Calamos Dynamic Convertible & Income Fund,286,286,2026q2,False
+0001604174,,Eagle Point Credit Co Inc.,Eagle Point Credit Co Inc.,12,2,2026q2,True
+0001606378,S000045948,Eubel Brady & Suttman Mutual Fund Trust,EUBEL BRADY & SUTTMAN INCOME AND APPRECIATION FUND,4,4,2026q2,False
+0001606378,S000045949,Eubel Brady & Suttman Mutual Fund Trust,EUBEL BRADY & SUTTMAN INCOME FUND,4,4,2026q2,False
+0001608016,,Palmer Square Opportunistic Income Fund,Palmer Square Opportunistic Income Fund,454,451,2026q2,False
+0001611331,S000088477,ALLSPRING EXCHANGE-TRADED FUNDS TRUST,Allspring Core Plus ETF,13,13,2026q2,False
+0001611331,S000088478,ALLSPRING EXCHANGE-TRADED FUNDS TRUST,Allspring Income Plus ETF,35,35,2026q2,True
+0001612930,S000048360,Angel Oak Funds Trust,Angel Oak Multi-Strategy Income Fund,24,24,2026q2,False
+0001615905,,Nuveen Global High Income Fund,Nuveen Global High Income Fund,193,193,2026q2,True
+0001616668,S000073714,Pacer Funds Trust,Pacer Aristotle Pacific Floating Rate High Income ETF,491,491,2026q2,False
+0001622148,,HIGHLAND GLOBAL ALLOCATION FUND,Highland Global Allocation Fund,8,0,2026q2,True
+0001628040,,Alternative Credit Income Fund,Alternative Credit Income Fund,264,0,2026q2,True
+0001644771,,RiverNorth Capital and Income Fund,RiverNorth Capital and Income Fund,38639,0,2026q2,True
+0001648403,S000051570,Virtus ETF Trust II,Virtus Newfleet Short Duration High Yield Bond ETF,4,0,2026q2,False
+0001648403,S000064735,Virtus ETF Trust II,Virtus Seix Senior Loan ETF,1069,1056,2026q2,False
+0001648403,S000088950,Virtus ETF Trust II,Virtus Seix AAA Private Credit CLO ETF,4,4,2026q2,False
+0001655099,,Brookfield Real Assets Income Fund Inc.,Brookfield Real Assets Income Fund Inc.,70,68,2026q2,True
+0001655146,S000052313,American Funds Strategic Bond Fund,American Funds Strategic Bond Fund,89,66,2026q2,True
+0001655589,S000061946,Franklin Templeton ETF Trust,Franklin High Yield Corporate ETF,18,17,2026q2,True
+0001655589,S000061948,Franklin Templeton ETF Trust,Franklin Senior Loan ETF,894,894,2026q2,True
+0001655589,S000080465,Franklin Templeton ETF Trust,Franklin Income Focus ETF,9,9,2026q2,True
+0001655589,S000081195,Franklin Templeton ETF Trust,Western Asset Bond ETF,41,40,2026q2,True
+0001655589,S000094328,Franklin Templeton ETF Trust,Franklin Multisector Income ETF,8,8,2026q2,True
+0001658645,,Stone Ridge Trust V,Stone Ridge Alternative Lending Risk Premium Fund,3318181,0,2026q2,False
+0001667919,S000056501,First Trust Exchange-Traded Fund VIII,First Trust Smith Opportunistic Fixed Income ETF,31,31,2026q2,False
+0001667919,S000061961,First Trust Exchange-Traded Fund VIII,First Trust Smith Unconstrained Bond ETF,46,46,2026q2,False
+0001668512,S000054040,Guardian Variable Products Trust,Guardian Core Plus Fixed Income VIP Fund,59,59,2026q2,True
+0001668512,S000061841,Guardian Variable Products Trust,Guardian Multi-Sector Bond VIP Fund,208,208,2026q2,True
+0001676197,,APOLLO DIVERSIFIED CREDIT FUND,Apollo Diversified Credit Fund,1475,356,2026q2,True
+0001676326,S000083827,Morgan Stanley ETF Trust,Eaton Vance Floating-Rate ETF,1362,1362,2026q2,True
+0001677615,,Federated Hermes Project & Trade Finance Tender Fund,Federated Hermes Project & Trade Finance Tender Fund,449,6,2026q2,True
+0001678124,,CION Ares Diversified Credit Fund,CION Ares Diversified Credit Fund,6970,520,2026q2,True
+0001678130,,RIVERNORTH/DOUBLELINE STRATEGIC OPPORTUNITY FUND INC.,RiverNorth/DoubleLine Strategic Opportunity Fund Inc.,41244,215,2026q2,True
+0001681576,S000055582,"T. ROWE PRICE TOTAL RETURN FUND, INC.",T. Rowe Price Total Return Fund,412,387,2026q2,False
+0001681717,,First Trust Alternative Opportunities Fund,First Trust Alternative Opportunities Fund,193,1,2026q2,True
+0001687898,,Harrison Street Real Assets Fund LLC,Harrison Street Real Assets Fund LLC,15,2,2026q2,True
+0001688554,,PIMCO Flexible Credit Income Fund,,382,196,2026q2,True
+0001688680,S000056101,Brinker Capital Destinations Trust,Destinations Multi Strategy Alternatives Fund,9,9,2026q1,False
+0001688680,S000056106,Brinker Capital Destinations Trust,Destinations Core Fixed Income Fund,460,460,2026q2,False
+0001688680,S000056107,Brinker Capital Destinations Trust,Destinations Low Duration Fixed Income Fund,21,16,2026q2,False
+0001688680,S000056108,Brinker Capital Destinations Trust,Destinations Global Fixed Income Opportunities Fund,66,53,2026q2,False
+0001688897,,FS Credit Income Fund,FS Credit Income Fund,465,223,2026q2,True
+0001696729,S000059562,PFM Multi-Manager Series Trust,First American Multi-Manager Fixed-Income Fund,6,6,2026q2,True
+0001699360,S000057729,Morningstar Funds Trust,Morningstar Global Income Fund,372,372,2026q2,False
+0001699360,S000057730,Morningstar Funds Trust,Morningstar Total Return Bond Fund,73,67,2026q2,False
+0001699360,S000057732,Morningstar Funds Trust,Morningstar Defensive Bond Fund,3,0,2026q2,False
+0001699360,S000057733,Morningstar Funds Trust,Morningstar Multisector Bond Fund,105,105,2026q2,False
+0001703079,,XAI OCTAGON FLOATING RATE & ALTERNATIVE INCOME TRUST,XAI Octagon Floating Rate & Alternative Income Trust,1364,1364,2026q2,True
+0001707770,S000058608,"T. ROWE PRICE MULTI-STRATEGY TOTAL RETURN FUND, INC.",T. Rowe Price Multi-Strategy Total Return Fund,63,59,2025q4,False
+0001709447,,AIP Alternative Lending Fund A,AIP Alternative Lending Fund A,1207902,0,2026q2,True
+0001710607,S000072410,American Century ETF Trust,American Century Multisector Income ETF,8,8,2026q2,False
+0001710607,S000077487,American Century ETF Trust,American Century Short Duration Strategic Income ETF,7,7,2026q2,False
+0001710680,,Highland Opportunities and Income Fund,Highland Opportunities and Income Fund,31,9,2026q2,True
+0001717457,,Calamos Long/Short Equity & Dynamic Income Trust,Calamos Long/Short Equity & Dynamic Income Trust,295,295,2026q2,False
+0001722837,,Bluebay Destra International Event-Driven Credit Fund,BlueBay Destra International Event-Driven Credit Fund,169,59,2026q2,True
+0001723701,,PIMCO Flexible Municipal Income Fund,,23,0,2026q2,True
+0001724826,S000068977,SIX CIRCLES TRUST,Six Circles Credit Opportunities Fund,620,607,2026q2,True
+0001724826,S000086732,SIX CIRCLES TRUST,Six Circles Multi-Strategy Fund,454,450,2025q4,False
+0001725472,,Carlyle Tactical Private Credit Fund,Carlyle Tactical Private Credit Fund,2502,573,2026q2,True
+0001727074,S000063094,PGIM ETF Trust,PGIM Active High Yield Bond ETF,202,184,2026q2,False
+0001727074,S000074500,PGIM ETF Trust,PGIM Total Return Bond ETF,33,33,2026q2,False
+0001727074,S000075490,PGIM ETF Trust,PGIM Floating Rate Income ETF,1247,1138,2026q2,False
+0001727074,S000083334,PGIM ETF Trust,PGIM Short Duration High Yield ETF,125,121,2026q2,False
+0001729678,,"BNY Mellon Alcentra Global Multi-Strategy Credit Fund, Inc.","BNY Mellon Alcentra Global Multi-Strategy Credit Fund, Inc.",3,3,2025q3,False
+0001735964,,Cliffwater Corporate Lending Fund,Cliffwater Corporate Lending Fund,39225,10,2026q2,True
+0001738072,S000062376,"BlackRock Variable Series Funds II, Inc.",BlackRock High Yield V.I. Fund,475,446,2026q2,True
+0001738072,S000062377,"BlackRock Variable Series Funds II, Inc.",BlackRock Total Return V.I. Fund,57,30,2026q2,True
+0001738073,S000062374,"BlackRock Series Fund II, Inc.",BlackRock High Yield Portfolio,17,17,2026q2,True
+0001738074,S000062370,BlackRock Funds IV,BlackRock Credit Relative Value Fund,334,249,2026q2,False
+0001738078,S000062356,BlackRock Funds V,BlackRock Income Fund,1721,1641,2026q2,True
+0001738078,S000062358,BlackRock Funds V,BlackRock Strategic Income Opportunities Portfolio,2309,1984,2026q2,True
+0001738078,S000062359,BlackRock Funds V,BlackRock Floating Rate Income Portfolio,1688,1598,2026q2,False
+0001738078,S000062360,BlackRock Funds V,BlackRock High Yield Portfolio,475,446,2026q2,True
+0001738078,S000062361,BlackRock Funds V,BlackRock Low Duration Bond Portfolio,1,1,2026q2,True
+0001738078,S000072568,BlackRock Funds V,BlackRock Sustainable High Yield Bond Fund,120,111,2025q4,False
+0001742951,,John Hancock GA Senior Loan Trust,John Hancock GA Senior Loan Trust,1201,0,2026q2,True
+0001742952,,John Hancock GA Mortgage Trust,John Hancock GA Mortgage Trust,1010,0,2026q2,True
+0001748680,,1WS CREDIT INCOME FUND,1WS Credit Income Fund,2,0,2026q2,False
+0001751156,,Ellington Income Opportunities Fund,Ellington Income Opportunities Fund,26,0,2026q2,True
+0001752019,,BlackRock HPS Credit Strategies Fund,BlackRock HPS Credit Strategies Fund,1971,1217,2026q2,True
+0001753712,,Lord Abbett Credit Opportunities Fund,Lord Abbett Credit Opportunities Fund,68,67,2026q2,True
+0001754836,,Eagle Point Income Co Inc.,Eagle Point Income Co Inc.,7,0,2026q2,True
+0001754927,,AXONIC ALTERNATIVE INCOME FUND,Axonic Alternative Income Fund,34,23,2026q2,False
+0001756908,,PIMCO Dynamic Income Strategy Fund,,290,207,2026q2,True
+0001761673,S000065032,American Funds Multi-Sector Income Fund,American Funds Multi-Sector Income Fund,195,160,2026q2,True
+0001762229,,Yieldstreet Alternative Income Fund Inc.,Yieldstreet Alternative Income Fund Inc.,48,0,2026q2,True
+0001762562,,Clarion Partners Real Estate Income Fund Inc.,Clarion Partners Real Estate Income Fund Inc.,4,0,2026q2,True
+0001767074,,CIM Real Assets & Credit Fund,CIM Real Assets & Credit Fund,143,4,2026q2,True
+0001774342,,Nuveen Municipal Credit Opportunities Fund,Nuveen Municipal Credit Opportunities Fund,4,0,2026q2,False
+0001777482,,Nuveen Enhanced High Yield Municipal Bond Fund,Nuveen Enhanced High Yield Municipal Bond Fund,12,0,2026q2,True
+0001777529,,Alpha Alternative Assets Fund,Alpha Alternative Assets Fund,6,0,2026q2,True
+0001787621,,KKR Asset-Based Finance Fund,KKR Asset-Based Finance Fund,1016,223,2026q2,False
+0001788399,,DoubleLine Yield Opportunities Fund,DoubleLine Yield Opportunities Fund,397,394,2026q2,True
+0001789470,,StepStone Private Markets,StepStone Private Markets,1,0,2025q3,False
+0001791032,S000067475,AXONIC FUNDS,Axonic Strategic Income Fund,28,24,2026q2,False
+0001793129,,Nuveen Dynamic Municipal Opportunities Fund,Nuveen Dynamic Municipal Opportunities Fund,4,0,2026q2,False
+0001794041,,Franklin BSP Private Credit Fund,Franklin BSP Private Credit Fund,623,60,2026q2,True
+0001795351,S000072798,"T. Rowe Price Exchange-Traded Funds, Inc.",T. Rowe Price Total Return ETF,424,397,2026q2,False
+0001795351,S000077050,"T. Rowe Price Exchange-Traded Funds, Inc.",T. Rowe Price Floating Rate ETF,1107,1039,2026q2,False
+0001795351,S000077051,"T. Rowe Price Exchange-Traded Funds, Inc.",T. Rowe Price U.S. High Yield ETF,29,29,2026q2,False
+0001795351,S000095889,"T. Rowe Price Exchange-Traded Funds, Inc.",T. Rowe Price Multi-Sector Income ETF,4,4,2026q2,False
+0001798618,,PIMCO Dynamic Income Opportunities Fund,,298,176,2026q2,True
+0001803491,,Hamilton Lane Private Assets Fund,Hamilton Lane Private Assets Fund,196,0,2026q2,True
+0001804196,S000077718,BlackRock ETF Trust II,iShares Floating Rate Loan Active ETF,2091,2006,2026q2,False
+0001804196,S000080411,BlackRock ETF Trust II,iShares Flexible Income Active ETF,491,479,2026q2,False
+0001804196,S000083073,BlackRock ETF Trust II,iShares Total Return Active ETF,4,4,2026q2,False
+0001804196,S000085059,BlackRock ETF Trust II,iShares High Yield Active ETF,420,392,2026q2,False
+0001807333,,Wilshire Private Assets Master Fund,Wilshire Private Assets Master Fund,4,0,2026q2,True
+0001809541,,BlackRock Capital Allocation Term Trust,BlackRock Capital Allocation Term Trust,301,213,2026q2,True
+0001810256,,Bow River Capital Evergreen Fund,Bow River Capital Evergreen Fund,30,0,2026q2,True
+0001810523,,First Trust High Yield Opportunities 2027 Term Fund,First Trust High Yield Opportunities 2027 Term Fund,206,206,2026q2,False
+0001810747,S000080585,Simplify Exchange Traded Funds,Simplify Opportunistic Income ETF,4,4,2026q2,True
+0001812286,,Harrison Street Infrastructure Income Fund,Harrison Street Infrastructure Income Fund,339,47,2026q2,True
+0001812923,,PGIM Short Duration High Yield Opportunities Fund,PGIM Short Duration High Yield Opportunities Fund,212,191,2026q2,False
+0001814390,,Flat Rock Core Income Fund ,Flat Rock Core Income Fund,250,0,2026q2,True
+0001816389,,BlackRock Private Investments Fund,BlackRock Private Investments Fund,636,609,2026q2,True
+0001818416,,First Eagle Credit Opportunities Fund,First Eagle Credit Opportunities Fund,1320,403,2026q2,True
+0001819559,,Western Asset Diversified Income Fund,Western Asset Diversified Income Fund,164,156,2026q2,True
+0001830437,S000084920,Perpetual Americas Funds Trust,Barrow Hanley Floating Rate Fund,577,577,2026q2,True
+0001831313,S000085545,TCW ETF Trust,TCW Flexible Income ETF,868,868,2026q2,False
+0001831313,S000085546,TCW ETF Trust,TCW High Yield Bond ETF,175,175,2026q2,False
+0001831313,S000085548,TCW ETF Trust,TCW Multisector Credit Income ETF,334,334,2026q2,False
+0001831313,S000085549,TCW ETF Trust,TCW Senior Loan ETF,1179,1174,2026q2,False
+0001831313,S000093199,TCW ETF Trust,TCW Core Plus Bond ETF,507,507,2026q2,False
+0001835068,,Nuveen Core Plus Impact Fund,Nuveen Core Plus Impact Fund,11,11,2026q2,True
+0001842754,,Cliffwater Enhanced Lending Fund,Cliffwater Enhanced Lending Fund,1066,0,2026q2,True
+0001843499,,AFA Asset Based Lending Fund,AFA Asset Based Lending Fund,28,0,2026q2,False
+0001844684,,NC SLF INC.,NC SLF INC.,906,18,2026q2,True
+0001845809,S000077298,Putnam ETF Trust,Putnam ESG High Yield ETF,106,105,2026q1,False
+0001849998,S000074174,Federated Hermes ETF Trust,Federated Hermes Short Duration High Yield ETF,165,165,2026q2,False
+0001851077,,PIMCO Flexible Emerging Markets Income Fund,,53,1,2026q2,True
+0001855299,,Lord Abbett Corporate Opportunities Fund,Lord Abbett Corporate Opportunities Fund,177,176,2026q2,True
+0001856156,,FS MVP Private Markets Fund,FS MVP Private Markets Fund,74,0,2026q2,True
+0001857314,,Forum Real Estate Income Fund,Forum Real Estate Income Fund,50,0,2026q2,True
+0001859808,S000072763,MassMutual Advantage Funds,MML Barings Unconstrained Income Fund,850,822,2026q2,True
+0001859808,S000072765,MassMutual Advantage Funds,MML Barings Global Floating Rate Fund,970,930,2026q2,True
+0001860151,,Invesco Dynamic Credit Opportunity Fund,Invesco Dynamic Credit Opportunity Fund,669,386,2026q2,False
+0001861115,,Nuveen Multi-Asset Income Fund,Nuveen Multi-Asset Income Fund,1368,1359,2026q2,True
+0001862281,,ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC,ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC,19,0,2026q2,True
+0001864208,,Guggenheim Active Allocation Fund,Guggenheim Active Allocation Fund,750,566,2026q2,False
+0001864609,,Cascade Private Capital Fund,Cascade Private Capital Fund,27,0,2026q2,True
+0001864843,,BlackRock ESG Capital Allocation Term Trust,BlackRock ESG Capital Allocation Term Trust,200,160,2026q2,True
+0001867714,,Monachil Credit Income Fund,Monachil Credit Income Fund,20,2,2026q2,True
+0001870117,S000074251,Capital Group Fixed Income ETF Trust,Capital Group Core Plus Income ETF,38,35,2026q2,True
+0001870117,S000077686,Capital Group Fixed Income ETF Trust,Capital Group Municipal Income ETF,4,1,2026q2,True
+0001870117,S000077687,Capital Group Fixed Income ETF Trust,Capital Group Short Duration Income ETF,4,0,2026q2,True
+0001870117,S000077688,Capital Group Fixed Income ETF Trust,Capital Group U.S. Multi-Sector Income ETF,130,110,2026q2,True
+0001870117,S000080918,Capital Group Fixed Income ETF Trust,Capital Group Core Bond ETF,4,0,2026q2,True
+0001870117,S000092698,Capital Group Fixed Income ETF Trust,Capital Group High Yield Bond ETF,19,19,2026q2,True
+0001870714,,Oaktree Diversified Income Fund Inc.,Oaktree Diversified Income Fund Inc.,1474,883,2026q2,True
+0001872555,S000073781,Catholic Responsible Investments Funds,Catholic Responsible Investments Bond Fund,13,13,2026q2,False
+0001872555,S000073782,Catholic Responsible Investments Funds,Catholic Responsible Investments Opportunistic Bond Fund,10,10,2026q2,False
+0001872555,S000073783,Catholic Responsible Investments Funds,Catholic Responsible Investments Short Duration Bond Fund,8,8,2026q2,False
+0001885778,,John Hancock Marathon Asset-Based Lending Fund,John Hancock Marathon Asset-Based Lending Fund,3714,2,2026q2,False
+0001886172,S000074770,DoubleLine ETF Trust,DoubleLine Opportunistic Core Bond ETF,592,592,2026q2,True
+0001886172,S000088886,DoubleLine ETF Trust,DoubleLine Multi-Sector Income ETF,498,498,2026q2,True
+0001886878,,PIMCO Access Income Fund,,286,170,2026q2,True
+0001896036,,Eagle Point Institutional Income Fund,Eagle Point Institutional Income Fund,11,0,2026q2,True
+0001896329,,PIMCO Flexible Real Estate Income Fund,,50,6,2026q2,True
+0001898303,,First Trust Real Assets Fund,First Trust Real Assets Fund,4,0,2026q2,True
+0001899610,,Carlyle AlpInvest Private Markets Fund,Carlyle AlpInvest Private Markets Fund,109,96,2026q2,True
+0001907437,,Opportunistic Credit Interval Fund,Opportunistic Credit Interval Fund,289,0,2026q2,True
+0001911795,,PIMCO California Flexible Municipal Income Fund,,15,0,2026q2,True
+0001912963,,First Trust Private Credit Fund,First Trust Private Credit Fund,353,65,2026q2,True
+0001929777,,Pender Real Estate Credit Fund,Pender Real Estate Credit Fund,187,0,2026q2,True
+0001937073,,Calamos Aksia Alternative Credit & Income Fund,Calamos Aksia Alternative Credit & Income Fund,1676,257,2026q2,True
+0001944664,,Nomura Alternative Income Fund,Nomura Alternative Income Fund,214,0,2026q2,True
+0001949594,,Fidelity Multi-Strategy Credit Fund,Fidelity Multi-Strategy Credit Fund,157,157,2026q2,True
+0001959372,S000080057,Aristotle Fund Series Trust,Aristotle Short Duration Income Fund,96,96,2026q2,True
+0001959372,S000080059,Aristotle Fund Series Trust,Aristotle Strategic Income Fund,267,267,2026q2,True
+0001959372,S000080060,Aristotle Fund Series Trust,Aristotle Ultra Short Income Fund,13,13,2026q2,True
+0001959372,S000080072,Aristotle Fund Series Trust,Aristotle Core Income Fund,193,193,2026q2,True
+0001959372,S000080074,Aristotle Fund Series Trust,Aristotle Floating Rate Income Fund,609,609,2026q2,True
+0001959372,S000080075,Aristotle Fund Series Trust,Aristotle High Yield Bond Fund,61,61,2026q2,True
+0001959372,S000093339,Aristotle Fund Series Trust,Aristotle Pacific EXclusive Series (H),102,102,2026q2,True
+0001965985,,Polen Credit Opportunities Fund,Polen Credit Opportunities Fund,82,72,2026q2,False
+0001966776,,KKR Asset-Based Income Fund,KKR Asset-Based Income Fund,27,0,2026q2,True
+0001969229,,Eaton Vance Floating-Rate Opportunities Fund,Eaton Vance Floating-Rate Opportunities Fund,33,33,2025q3,False
+0001982467,,Jackson Credit Opportunities Fund,Jackson Credit Opportunities Fund,540,504,2026q2,True
+0001987990,,KKR US Direct Lending Fund-U Inc.,KKR US Direct Lending Fund-U Inc.,514,0,2026q2,True
+0001988752,,MEKETA INFRASTRUCTURE FUND,MEKETA INFRASTRUCTURE FUND,4,2,2026q2,True
+0001989582,,PGIM Credit Income Fund,PGIM Credit Income Fund,513,465,2026q2,True
+0001990685,,Niagara Income Opportunities Fund,Niagara Income Opportunities Fund,227,0,2026q2,True
+0001992148,,Eagle Point Enhanced Income Trust,Eagle Point Enhanced Income Trust,55,0,2026q2,True
+0002000182,,Denali Structured Return Strategy Fund,Denali Structured Return Strategy Fund,245,0,2026q2,True
+0002000645,,OCTAGON XAI CLO INCOME FUND,Octagon XAI CLO Income Fund,1,1,2025q3,False
+0002001586,,"CION Grosvenor Infrastructure Master Fund, LLC","CION Grosvenor Infrastructure Master Fund, LLC",8,0,2026q2,True
+0002005563,,Lord Abbett Flexible Income Fund,Lord Abbett Flexible Income Fund,279,20,2026q2,True
+0002006100,,StepStone Private Credit Income Fund,StepStone Private Credit Income Fund,3609,0,2026q2,True
+0002006189,,First Eagle Real Estate Debt Fund,First Eagle Real Estate Debt Fund,252,0,2026q2,True
+0002008638,,John Hancock CQS Multi Asset Credit Fund,John Hancock CQS Multi Asset Credit Fund,251,251,2026q2,False
+0002012326,,AB CarVal Credit Opportunities Fund,AB CarVal Credit Opportunities Fund,63,59,2026q2,True
+0002012980,,Gemcorp Commodities Alternative Products Fund  ,Gemcorp Commodities Alternative Products Fund,20,0,2026q2,True
+0002013536,,Eagle Point Defensive Income Trust,Eagle Point Defensive Income Trust,135,2,2026q2,True
+0002014487,S000085069,Palmer Square Funds Trust,Palmer Square Credit Opportunities ETF,213,213,2026q2,True
+0002014487,S000095502,Palmer Square Funds Trust,Palmer Square Income Plus Fund,78,78,2026q2,True
+0002014487,S000095503,Palmer Square Funds Trust,Palmer Square Ultra-Short Duration Investment Grade Fund,8,8,2026q2,True
+0002015571,,TCW Spirit Direct Lending LLC,TCW Spirit Direct Lending LLC,11,0,2025q3,False
+0002015849,,MA Specialty Credit Income Fund,MA Specialty Credit Income Fund,30,0,2026q2,True
+0002016900,,Principal Private Credit Fund,Principal Private Credit Fund,473,115,2026q2,True
+0002017579,,Privacore PCAAM Alternative Income Fund,Privacore PCAAM Alternative Income Fund,131,0,2026q2,True
+0002020645,S000095202,Capital Group Completion Fund Series,Capital Group Core Plus Completion Fund,17,17,2026q2,True
+0002021979,,First Trust Enhanced Private Credit Fund,First Trust Enhanced Private Credit Fund,81,0,2026q2,True
+0002025137,S000086624,Virtus Managed Account Completion Shares (MACS) Trust,Virtus Newfleet Floating Rate MACS,558,548,2026q2,True
+0002026098,,Gladstone Alternative Income Fund,Gladstone Alternative Income Fund,26,0,2026q2,True
+0002026275,,Wellington Global Multi-Strategy Fund,Wellington Global Multi-Strategy Fund,21,21,2026q2,False
+0002028436,,T. Rowe Price OHA Flexible Credit Income Fund,T. Rowe Price OHA Flexible Credit Income Fund,521,82,2026q2,True
+0002029168,,Callodine Specialty Income Fund,Callodine Specialty Income Fund,32,0,2026q2,True
+0002032432,,Blackstone Private Multi-Asset Credit & Income Fund,Blackstone Private Multi-Asset Credit & Income Fund,124,0,2026q2,True
+0002036029,,83 Investment Group Income Fund,83 Investment Group Income Fund,22,8,2026q2,True
+0002036272,,TCW Private Asset Income Fund,TCW Private Asset Income Fund,28,5,2026q2,True
+0002040278,,HL SCOPE RIC LLC,HL SCOPE RIC LLC,480,0,2026q2,True
+0002040315,,Capital Group KKR Core Plus (plus),Capital Group KKR Core Plus (plus),321,31,2026q2,True
+0002040318,,Capital Group KKR Multi-Sector (plus),Capital Group KKR Multi-Sector (plus),336,31,2026q2,True
+0002041175,,Neuberger Asset-Based Credit Fund,Neuberger Asset-Based Credit Fund,74894,0,2026q2,True
+0002042256,,iDirect Private Credit Fund,iDirect Private Credit Fund,442,153,2026q2,True
+0002042316,S000089752,Victory Portfolios IV,Victory Pioneer Bond Fund,22,22,2026q2,True
+0002042316,S000089756,Victory Portfolios IV,Victory Pioneer Multi-Asset Income Fund,30,30,2026q2,False
+0002042316,S000089761,Victory Portfolios IV,Victory Pioneer Strategic Income Fund,34,34,2026q2,True
+0002042316,S000089768,Victory Portfolios IV,Victory Pioneer Short Term Income Fund,75,75,2026q2,False
+0002042316,S000089770,Victory Portfolios IV,Victory Pioneer Multi-Asset Ultrashort Income Fund,441,441,2026q2,True
+0002042316,S000089771,Victory Portfolios IV,Victory Pioneer High Yield Fund,23,23,2026q2,False
+0002042316,S000089773,Victory Portfolios IV,Victory Pioneer Floating Rate Fund,773,773,2026q2,False
+0002042316,S000089774,Victory Portfolios IV,Victory Pioneer Active Credit Fund,8,8,2026q2,False
+0002042316,S000089820,Victory Portfolios IV,Victory Pioneer Balanced Fund,9,9,2026q2,False
+0002042317,S000089714,Victory Variable Insurance Funds II,Victory Pioneer Strategic Income VCT Portfolio,30,30,2026q2,True
+0002042317,S000089717,Victory Variable Insurance Funds II,Victory Pioneer High Yield VCT Portfolio,25,25,2026q2,True
+0002042317,S000089720,Victory Variable Insurance Funds II,Victory Pioneer Bond VCT Portfolio,14,14,2026q2,True
+0002043390,S000096084,Tidal Trust IV,Voya Multi-Sector Income ETF,28,28,2026q2,True
+0002051511,,Oaktree Asset-Backed Income Fund Inc.,Oaktree Asset-Backed Income Fund Inc.,28,5,2026q2,True
+0002051512,,Oaktree Asset-Backed Income Private Placement Fund Inc.,Oaktree Asset-Backed Income Private Placement Fund Inc.,8,0,2025q4,False
+0002052250,,GoldenTree Opportunistic Credit Fund,GoldenTree Opportunistic Credit Fund,312,234,2026q2,True
+0002054992,,Lincoln Bain Capital Total Credit Fund,Lincoln Bain Capital Total Credit Fund,254,30,2026q2,True
+0002054995,,Lincoln Partners Group Royalty Fund,Lincoln Partners Group Royalty Fund,30,30,2026q2,True
+0002055004,,Pursuit Asset-Based Income Fund,Pursuit Asset-Based Income Fund,145,0,2026q2,True
+0002059105,,StepStone Private Credit Co-Investment Fund,StepStone Private Credit Co-Investment Fund,583,0,2026q2,True
+0002059436,,Blue Owl Alternative Credit Fund,Blue Owl Alternative Credit Fund,46,0,2026q2,True
+0002063946,,Franklin BSP Lending Fund,Franklin BSP Lending Fund,89,66,2026q2,True
+0002064871,S000093531,American Funds Core Plus Bond Fund,American Funds Core Plus Bond Fund,18,18,2026q2,False
+0002065379,S000094833,Man ETF Series Trust,Man Active High Yield ETF,1,1,2026q2,False
+0002065379,S000094834,Man ETF Series Trust,Man Active Income ETF,4,4,2026q2,False
+0002065812,,FS Specialty Lending Fund,FS Specialty Lending Fund,259,107,2026q2,True
+0002066313,,599 Fund LLC,599 Fund LLC,55,0,2026q2,True
+0002066993,,Origin Real Estate Credit Fund,Origin Real Estate Credit Fund,10,0,2026q2,True
+0002070546,,TCG Strategic Income Fund,TCG Strategic Income Fund,5,0,2026q2,True
+0002076022,,EP Private Capital Fund I,EP Private Capital Fund I,9,0,2026q2,True
+0002094982,,Manulife GA Trust,Manulife GA Trust,16,0,2026q2,True
+0001027263,S000009055,EQ Advisors Trust,EQ/Quality Bond PLUS Portfolio,1,1,2026q3 (30 Jun 2026 rows),True
+0001027263,S000044692,EQ Advisors Trust,Multimanager Core Bond Portfolio,1,1,2026q3 (30 Jun 2026 rows),True
+0001047304,S000009662,PIMCO VARIABLE INSURANCE TRUST,PIMCO Short-Term Portfolio,1,1,2026q3 (30 Jun 2026 rows),True
+0001098605,S000043031,PIMCO Managed Accounts Trust,Fixed Income SHares: Series LD,1,1,2026q3 (30 Jun 2026 rows),True
+0001140411,,PIMCO CALIFORNIA MUNICIPAL INCOME FUND,PIMCO CALIFORNIA MUNICIPAL INCOME FUND,64,0,2026q3 (30 Jun 2026 rows),True
+0001221845,S000084041,BlackRock Allocation Target Shares,BATS: High Income Taxable Series,1,1,2026q3 (30 Jun 2026 rows),True
+0001272950,S000102195,RBC Funds Trust,RBC BlueBay Credit Opportunities Fund,19,19,2026q3 (30 Jun 2026 rows),True
+0001413032,S000028684,Columbia Funds Variable Series Trust II,CTIVP - Fidelity Institutional AM Total Bond Fund,353,353,2026q3 (30 Jun 2026 rows),True
+0001450011,S000037977,PIMCO ETF Trust,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0001479359,S000028118,PIMCO Equity Series VIT,PIMCO StocksPLUS Global Portfolio,1,1,2026q3 (30 Jun 2026 rows),True
+0001551047,,Bluerock Private Real Estate Fund,Bluerock Private Real Estate Fund,1,0,2026q3 (30 Jun 2026 rows),True
+0001597634,,APOLLO DIVERSIFIED REAL ESTATE FUND,Apollo Diversified Real Estate Fund,2,0,2026q3 (30 Jun 2026 rows),True
+0001738078,S000062362,BlackRock Funds V,BlackRock Core Bond Portfolio,1,0,2026q3 (30 Jun 2026 rows),True
+0001757563,,Loomis Sayles Credit Income Opportunities Fund,Loomis Sayles Credit Income Opportunities Fund,55,55,2026q3 (30 Jun 2026 rows),True
+0001810747,S000091848,Simplify Exchange Traded Funds,Simplify Kayne Anderson Energy and Infrastructure Credit ETF,3,3,2026q3 (30 Jun 2026 rows),True
+0001876006,,Ares Private Markets Fund,Ares Private Markets Fund,3,0,2026q3 (30 Jun 2026 rows),True
+0001888997,S000103400,SEI EXCHANGE TRADED FUNDS,SEI High Yield Bond & Alternative Credit ETF,130,116,2026q3 (30 Jun 2026 rows),True
+0002007649,,Catalyst/Perini Strategic Income Fund,Catalyst/Perini Strategic Income Fund,2,0,2026q3 (30 Jun 2026 rows),True
+0002027232,,Hamilton Lane Credit Income Fund,Hamilton Lane Credit Income Fund,110,0,2026q3 (30 Jun 2026 rows),True
+0002028174,,Sound Point Alternative Income Fund,Sound Point Alternative Income Fund,131,0,2026q3 (30 Jun 2026 rows),True
+0002066579,,Privacore VPC Asset Backed Credit Fund,Privacore VPC Asset Backed Credit Fund,1345,0,2026q3 (30 Jun 2026 rows),True
+0002067955,,Diameter Dynamic Credit Fund,Diameter Dynamic Credit Fund,178,174,2026q3 (30 Jun 2026 rows),True
+0002074612,,LibreMax Asset-Backed Income Fund,LibreMax Asset-Backed Income Fund,1,0,2026q3 (30 Jun 2026 rows),True
+0002092012,,RBC BlueBay Enhanced Income Fund,RBC BlueBay Enhanced Income Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000004568,S000008801,American Balanced Fund,American Balanced Fund,1,0,2026q3 (30 Jun 2026 rows),True
+0000756913,S000008273,John Hancock Variable Insurance Trust,Investment Quality Bond Trust,3,3,2026q3 (30 Jun 2026 rows),True
+0000764624,S000016649,Legg Mason Partners Income Trust,Western Asset Mortgage Total Return Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000009696,PIMCO FUNDS,PIMCO Municipal Bond Fund,2,0,2026q3 (30 Jun 2026 rows),True
+0000810893,S000009703,PIMCO FUNDS,PIMCO Short-Term Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000009709,PIMCO FUNDS,PIMCO Total Return Fund II,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000010253,PIMCO FUNDS,PIMCO StocksPLUS Small Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000014410,PIMCO FUNDS,PIMCO StocksPLUS International Fund (Unhedged),1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000021058,PIMCO FUNDS,PIMCO RAE Fundamental Advantage PLUS Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000023716,PIMCO FUNDS,PIMCO RAE PLUS EMG Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000032697,PIMCO FUNDS,PIMCO RAE PLUS Small Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000032698,PIMCO FUNDS,PIMCO RAE PLUS International Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000037096,PIMCO FUNDS,PIMCO California Municipal Bond Fund,2,0,2026q3 (30 Jun 2026 rows),True
+0000810893,S000047288,PIMCO FUNDS,PIMCO RAE Worldwide Long/Short PLUS Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000810893,S000077182,PIMCO FUNDS,PIMCO All Authority: Multi-RAE PLUS Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000816153,S000082059,THORNBURG INVESTMENT TRUST,Thornburg Core Plus Bond Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000088525,S000102310,Guggenheim Funds Trust,Guggenheim Ultra Short Income ETF,5,4,2026q3 (30 Jun 2026 rows),True
+0000908406,S000006579,American Century Investment Trust,Diversified Bond Fund,2,2,2026q3 (30 Jun 2026 rows),True
+0000908406,S000014384,American Century Investment Trust,Core Plus Fund,5,5,2026q3 (30 Jun 2026 rows),True
+0000914036,S000083643,LINCOLN VARIABLE INSURANCE PRODUCTS TRUST,LVIP American Century Balanced Fund,1,1,2026q3 (30 Jun 2026 rows),True
+0000916490,S000103533,Timothy Plan,Timothy Plan Fixed Income ETF,5,5,2026q3 (30 Jun 2026 rows),True
