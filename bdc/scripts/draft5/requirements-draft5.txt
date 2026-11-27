@@ -1,0 +1,11 @@
+# Package versions that produced the draft 5 numbers (Python 3.13.18, Linux), 24 Nov 2026.
+# Install with: pip install -r requirements-draft5.txt. Also needs pdftotext (poppler-utils) for d5_wordcount.py and a TeX Live with latexmk for the PDF.
+formulaic==1.2.2
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.5
+pyarrow==26.0.1
+pyfixest==0.70.0
+scikit-learn==1.9.1
+scipy==1.18.1
+statsmodels==0.15.0
