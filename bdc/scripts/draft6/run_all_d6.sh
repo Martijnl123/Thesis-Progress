@@ -14,6 +14,7 @@ python3 $B/draft6/d6_sep_numbers.py "$OUT" "$SCR"  # numbers-sep.tex: registered
 python3 $B/draft4/d4_labels_numbers.py "$OUT"      # numbers-labels.tex: blind validation and open-model relabel
 python3 $B/draft4/d4_tables.py "$OUT"              # draft 4 tables and numbers-tab.tex
 python3 $B/draft6/d6_d5numbers.py "$OUT" "$SCR/d5tables"  # numbers-d5.tex on the 26 Nov builds
+cp "$SCR"/d5tables/*.tex "$OUT/tables/"              # repo copy (27 Nov 2026): d6_tables.py reads tab_robust_more_d5.tex from here
 python3 $B/draft6/d6_numbers.py "$OUT"             # numbers-d6.tex: new June checks (rank variants, root-3, Pluralsight, trims)
 python3 $B/draft6/d6_figs.py "$OUT"                # figures and numbers-d6fig.tex (iShares quarter-ends, histogram)
 python3 $B/draft6/d6_tables.py "$OUT"              # draft 6 tables and numbers-d6tab.tex
