@@ -1,0 +1,9 @@
+{
+  "title": "Private marks, public news: code for a master's thesis on BDC software-loan marks",
+  "upload_type": "software",
+  "description": "Code for the master's thesis 'Private marks, public news. Did private credit mark down its software loans when the market did?' (Vrije Universiteit Amsterdam, 2026). Pre-analysis plan: https://doi.org/10.17605/OSF.IO/PSZ5D.",
+  "creators": [{"name": "Lustig, Martijn", "affiliation": "Vrije Universiteit Amsterdam"}],
+  "keywords": ["private credit", "business development companies", "fair value", "software loans"],
+  "related_identifiers": [{"identifier": "10.17605/OSF.IO/PSZ5D", "relation": "isSupplementTo", "scheme": "doi"}],
+  "access_right": "open"
+}

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis and this repository."
+title: "Private marks, public news: code for a master's thesis on BDC software-loan marks"
+type: software
+authors:
+  - family-names: Lustig
+    given-names: Martijn
+    affiliation: "Vrije Universiteit Amsterdam"
+date-released: 2026-12-04
+version: "1.0.0"
+keywords:
+  - private credit
+  - business development companies
+  - fair value
+  - software loans
+references:
+  - type: thesis
+    title: "Private marks, public news. Did private credit mark down its software loans when the market did?"
+    authors:
+      - family-names: Lustig
+        given-names: Martijn
+    thesis-type: "Master's thesis, MSc Finance (Duisenberg Honours Programme in Corporate Finance)"
+    institution:
+      name: "School of Business and Economics, Vrije Universiteit Amsterdam"
+    year: 2026
+  - type: generic
+    title: "Pre-analysis plan (OSF registration)"
+    doi: "10.17605/OSF.IO/PSZ5D"
+    year: 2026
